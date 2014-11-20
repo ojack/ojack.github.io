@@ -1,0 +1,41 @@
+#buttons li
+{
+	/*display: inline;
+	list-style-type: none;
+	padding-right: 40px;*/
+}
+
+
+.menuBar li
+{
+	display: inline;
+	list-style-type: none;
+	
+	font-weight: 300;
+	cursor: pointer;
+	margin: 0px;
+}
+
+#topBar li{
+	padding-right: 40px;
+}
+
+#filter li{
+	padding-right: 20px;
+	color: #666;
+}
+
+
+.filter {
+	font-size: 12px;
+	padding-left: 20px;
+	font-weight: 200;
+	color: #666;
+}
+
+#name{
+	font-size: 2.1em;
+  font-weight: 1000;
+  margin: 0;
+  
+}
