@@ -109,6 +109,19 @@ I used GoogleEarth Javascript API to capture the view at each coordinate and ang
 </description>
     </item>
     <item>
+      <title>Yosemite's Disappearing Glaciers</title>
+      <link>http://ojack.github.io/articles/glaciers/</link>
+      <pubDate>Mon, 29 Apr 2013 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://ojack.github.io/articles/glaciers/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
+Interface for comparing before and after images of glaciers in Yosemite.
+&lt;img src=&quot;/articles/glaciers/full.png&quot; alt=&quot;splash&quot;&gt;
+&lt;img src=&quot;/articles/glaciers/chair.jpg&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Technology: Javascript running on an iPad kiosk&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Selfie Apocalypse</title>
       <link>http://ojack.github.io/articles/selfie-apocalypse/</link>
       <pubDate>Mon, 29 Apr 2013 19:00:00 -0500</pubDate>
@@ -123,19 +136,6 @@ I used GoogleEarth Javascript API to capture the view at each coordinate and ang
 </description>
     </item>
     <item>
-      <title>Yosemite's Disappearing Glaciers</title>
-      <link>http://ojack.github.io/articles/glaciers/</link>
-      <pubDate>Mon, 29 Apr 2013 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://ojack.github.io/articles/glaciers/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
-Interface for comparing before and after images of glaciers in Yosemite.
-&lt;img src=&quot;/articles/glaciers/full.png&quot; alt=&quot;splash&quot;&gt;
-&lt;img src=&quot;/articles/glaciers/chair.jpg&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Technology: Javascript running on an iPad kiosk&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Oakland Then and Now</title>
       <link>http://ojack.github.io/articles/oakland-then-now/</link>
       <pubDate>Sun, 31 Mar 2013 19:00:00 -0500</pubDate>
@@ -145,7 +145,7 @@ Interface for comparing before and after images of glaciers in Yosemite.
 OAKLAND NOW AND THEN: photo &amp;amp; map-based exploration of past and present landscapes&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/oakland-then-now/oakland-then-now.png&quot; alt=&quot;splash&quot;&gt;
 &lt;img src=&quot;/articles/oakland-then-now/screenshot.png&quot; alt=&quot;splash&quot;&gt;
-&lt;img src=&quot;http://ojack.github.io/articles/oakland-then-now/thumb.png&quot; alt=&quot;splash&quot;&gt;
+&lt;img src=&quot;/articles/oakland-then-now/hand.png&quot; alt=&quot;splash&quot;&gt;
 [prototyping in the gallery]
 &lt;img src=&quot;/articles/oakland-then-now/prototyping.jpg&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
 </description>
