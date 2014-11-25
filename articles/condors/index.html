@@ -12,8 +12,8 @@
       <div class="menu">
         <ul id="topBar" class="menuBar">
           <li id="name"><a href="http://ojack.github.io">olivia jack</a></li>
-          <li>Work</li>
-          <li>Contact</li>
+          <li><a href="http://ojack.github.io">Work</a></li>
+          <li><a href="http://ojack.github.io/archive.html">Contact</a></li>
         </ul>
       </div>
     </header>
@@ -23,9 +23,12 @@
         <p class="date"><span>30. April 2013</span></p>
         <article class="article">
           <section class="content"><p><span class="more"></span>
-Animated map of flight paths of the California Condor. The visualation shows the paths traveled by condors over a map of 
-<img src="/articles/condors/fullscreen.png" alt="splash">
-<img src="/articles/condors/loop.png" alt="splash"></p>
+Animated map of flight paths of the California Condor, with a side-panel that shows the “condor-eye-view” as rendered in Google Earth.</p>
+<p><img src="/articles/condors/fullscreen.png" alt="splash"></p>
+<p><img src="/articles/condors/loop.png" alt="splash"></p>
+<p>Process:</p>
+<p>I created the animated paths using Processing, by plotting a the location at each incremental hour of the Condor’s flight, and then saving the frame. The thickness of the path at each point varies according to the elevation of the underlying terrain, giving the paths a hand-drawn, organic feel. 
+I used GoogleEarth Javascript API to capture the view at each coordinate and angle of view (tangent) along the path. A NodeJS server communicated between the Processing App and the Javascript API to keep them in sync, and communicated with terminal to take a screenshot of the Google Earth window at each point in the Condor’s trajectory. Finally, I assembled the 100,000 frames into a video.</p>
 </section>
         </article>
       </div>
