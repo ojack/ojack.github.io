@@ -35,6 +35,7 @@
 	margin: 0px 0px 20px 20px;
 	width: 280px;
 	height: 200px;
+	opacity: 1;
 	/*background-color: #400;*/
 	/*-webkit-backface-visibility: hidden;
 	backface-visibility: hidden;*/
@@ -43,6 +44,7 @@
 }
 
 .tt-grid li.hide {
+	opacity: 0;
 	display: none;
 }
 

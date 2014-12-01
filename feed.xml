@@ -15,10 +15,11 @@
       <guid isPermaLink="true">http://ojack.github.io/articles/futures/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
-Collabortive drawing + storytelling project about California’s future, created for the Oakland Museum of California’s Natural Science Gallery. Visitors to the museum can add a drawing or idea at one of several touch-screen stations, and immediately see their creations added to the projected wall of ideas. &lt;/p&gt;
+Collabortive drawing + storytelling project about California’s future, created for the Oakland Museum of California’s Natural Science Gallery. A space for reflection and conversation about the impacts of humans on the environment, global shifts and possibilities both dire and hopeful. &lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/futures/stations.png&quot; alt=&quot;splash&quot;&gt;
-&lt;img src=&quot;/articles/futures/sort1.png&quot; alt=&quot;splash&quot;&gt;
-&lt;img src=&quot;/articles/futures/detail.png&quot; alt=&quot;splash&quot;&gt;
+&lt;img src=&quot;/articles/futures/sort1.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The experience consists of two primary components: a large-scale, immersive visualization as well as several “input stations” where visitors can build off of previous ideas, as well as add their own. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/futures/detail.png&quot; alt=&quot;splash&quot;&gt;
 &lt;img src=&quot;/articles/futures/draw.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/112487926?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&amp;amp;autoplay=0&amp;amp;loop=1&quot; width=&quot;700&quot; height=&quot;393&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;img src=&quot;/articles/futures/projection.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
@@ -70,7 +71,8 @@ Map of all &lt;a href=&quot;http://www.antievictionmappingproject.net/combined.h
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 Interactive exploration of sounds found in the gardens of the Oakland Museum.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/soundstation/home.png&quot; alt=&quot;splash&quot;&gt;
-&lt;img src=&quot;/articles/soundstation/detail.png&quot; alt=&quot;splash&quot;&gt;
+&lt;img src=&quot;/articles/soundstation/detail.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/113040714?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&quot; width=&quot;700&quot; height=&quot;394&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;img src=&quot;/articles/soundstation/visitors.png&quot; alt=&quot;splash&quot;&gt;
 &lt;img src=&quot;/articles/soundstation/gallery.jpg&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
 </description>
@@ -128,8 +130,9 @@ Interface for comparing before and after images of glaciers in Yosemite.
       <guid isPermaLink="true">http://ojack.github.io/articles/selfie-apocalypse/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
-[in progress] A set of experiments using webRTC in the browser
-&lt;img src=&quot;/articles/selfie-apocalypse/glitch.gif&quot; alt=&quot;splash&quot;&gt;
+[in progress] A set of experiments using webRTC in the browser.&lt;/br&gt;
+&lt;a href=&quot;http://ojack.github.io/selfie-apocalypse&quot;&gt;Demo here&lt;/a&gt; (requires Chrome or Firefox and a webcam)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/selfie-apocalypse/glitch.gif&quot; alt=&quot;splash&quot;&gt;
 &lt;img src=&quot;/articles/selfie-apocalypse/circle.gif&quot; alt=&quot;splash&quot;&gt;
 &lt;img src=&quot;/articles/selfie-apocalypse/pulse.gif&quot; alt=&quot;splash&quot;&gt;
 &lt;img src=&quot;/articles/selfie-apocalypse/spiral.jpg&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;

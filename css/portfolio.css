@@ -25,12 +25,23 @@
 	color: #666;
 }
 
-
+#filters{
+	/*padding-left: 20px;*/
+}
 .filter {
 	font-size: 12px;
-	padding-left: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+
 	font-weight: 200;
 	color: #666;
+	border-bottom: none;
+	
+}
+
+
+.highlight{
+	border-bottom: 1px dotted;
 }
 
 #name{
