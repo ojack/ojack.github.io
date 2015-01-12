@@ -181,6 +181,7 @@ footer .copy, footer .copy a {
 
 .article {
   margin: 3em 0 4em;
+  max-width: 800px;
 }
 
 .article header {
@@ -214,6 +215,10 @@ footer .copy, footer .copy a {
   display: inline;
 }
 
+.article p{
+  /*max-width: 700px;*/
+}
+
 .article.intro .content .more {
   text-decoration: underline;
   font-weight: 700;
@@ -222,9 +227,9 @@ footer .copy, footer .copy a {
 
 .article .content img {
   display: block;
-  width: 80%;
+  width: 100%;
   margin-bottom: 10px;
-  max-width: 700px;
+  /*max-width: 700px;*/
 }
 
 .more, .date {

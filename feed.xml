@@ -23,6 +23,7 @@ Collabortive drawing + storytelling project about California’s future, created
 &lt;img src=&quot;/articles/futures/draw.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/112487926?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&amp;amp;autoplay=0&amp;amp;loop=1&quot; width=&quot;700&quot; height=&quot;393&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;img src=&quot;/articles/futures/projection.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The installation is built using NodeJS, websockets, a MongoDB database, and node-webkit.&lt;/p&gt;
 &lt;p&gt;Software Development and Interface Design: Olivia Jack &lt;/br&gt;
 Graphic Identity: Joe Bromley, Auburn Lahoski &lt;/br&gt;
 Initial Concept: Don Pohlman &lt;/br&gt;
@@ -35,13 +36,25 @@ Prototyping: Melissa Standen &lt;/br&gt;&lt;/p&gt;
       <pubDate>Wed, 29 Jan 2014 19:00:00 -0500</pubDate>
       <guid isPermaLink="true">http://ojack.github.io/articles/ellis-evictions/</guid>
       <author></author>
-      <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;
-Created &lt;a href=&quot;http://www.antievictionmappingproject.net/ellis.html&quot;&gt;a series of maps&lt;/a&gt; as part of the Anti-Eviction Mapping Project, a data-visualization and digital storytelling collective working to document the housing crisis in San Francisco, CA.&lt;/p&gt;
+      <description>&lt;p&gt;Created &lt;a href=&quot;http://www.antievictionmappingproject.net/ellis.html&quot;&gt;a series of maps&lt;/a&gt; as part of the Anti-Eviction Mapping Project, a data-visualization and digital storytelling collective working to document the housing crisis in San Francisco, California.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.antievictionmappingproject.net/ellis.html&quot;&gt;&lt;img src=&quot;/articles/ellis-evictions/thumb1.png&quot; alt=&quot;Ellis&quot;&gt;&lt;/a&gt;
-Animated map of Ellis Act Evictions in San Francisco, 2007-2011. &lt;a href=&quot;https://github.com/ojack/Anti-Eviction-Mapping-Project&quot;&gt;Code on Github&lt;/a&gt;.&lt;/p&gt;
+Animated map of Ellis Act Evictions in San Francisco, 2007-2011. &lt;/p&gt;
+&lt;p&gt;&lt;h1&gt; About &lt;/h1&gt;
+Each individual dot on these maps is a building in which all of the residents were evicted through no fault of their own. The size of the dots corresponds to the number of units in each building, and the map is animated to show the cumulation of these evictions over time.&lt;/p&gt;
+&lt;p&gt;The data used in these maps comes from the SF Rent Board and the SF Planning Commission. Maps showing housing data are nothing new, and have frequently been created by real estate companies and the assessors office to provide information to home buyers and landlords. These real estate maps are created with the very specific purposes of expediting the process of buyng and selling houses, in other words of displaying the economic rather than the human side of the housing market.  &lt;/p&gt;
+&lt;p&gt;As a collective of activists and techworkers, the Anti-Eviction Mapping Project is interested in exploring and exposing the power relationships underpinning housing changes in the Bay Area. Some driving questions in this project have been:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What would a map of housing data created from the perspective of tenants, rather than home-buyers, look like?  &lt;/li&gt;
+&lt;li&gt;In what ways is data perceived as “objective”, while actually reinforcing existing hierarchies of power and points of view?&lt;/li&gt;
+&lt;li&gt;How can a visualization evoke a more human realtionship to the data it represents?&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.antievictionmappingproject.net/combined.html&quot;&gt;&lt;img src=&quot;/articles/ellis-evictions/combined.png&quot; alt=&quot;combined&quot;&gt;&lt;/a&gt;
 Map of all &lt;a href=&quot;http://www.antievictionmappingproject.net/combined.html&quot;&gt;No-Fault Evictions&lt;/a&gt; in San Francisco, 2007-2011.&lt;/p&gt;
-&lt;p&gt;Press:&lt;/p&gt;
+&lt;p&gt;Design &amp;amp; development: Olivia Jack
+&lt;/br&gt; Concept and data gathering: Anti-Eviction Mapping Project&lt;/p&gt;
+&lt;p&gt;Created using d3.js, Leaflet, and CartoDB.
+&lt;a href=&quot;https://github.com/ojack/Anti-Eviction-Mapping-Project&quot;&gt;Code on Github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;h1&gt; Press &lt;/h1&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://www.theatlanticcities.com/housing/2013/10/startling-animation-15-years-evictions-san-francisco/7260/&quot; target=&quot;_blank&quot;&gt;Atlantic Cities&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://sf.curbed.com/archives/2013/10/17/animated_ellis_act_map_shows_explosive_effects_of_evictions.php&quot;&gt;Curbed SF&lt;/a&gt;&lt;/li&gt;
@@ -59,8 +72,59 @@ Map of all &lt;a href=&quot;http://www.antievictionmappingproject.net/combined.h
 &lt;p&gt;Al Jazeera+ made a video using the map:&lt;/p&gt;
 &lt;iframe width=&quot;700&quot; height=&quot;393&quot; src=&quot;//www.youtube.com/embed/D3UPom9R04U&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;/span&gt;&lt;/p&gt;
-</description>
+
+&lt;!---The goal of this project is to explore the c 
+
+    -explore the ever-changing 
+
+     Each individual dot on this map is a building in which all of the residents were evicted through no fault of their own. The size of the dots correspond to the number of units in each building, and the map is animated to show the cumulation of these evictions over time.
+
+    The data used in these maps comes from the San Francisco Rent Board and the San Francisco Planning commission. Maps showing housing data are nothing new, and have frequently been created by real estate companies to help home buyers and landlords. These real estate maps are created with the very specific purposes of expediting economic transactions, of displaying the monetary rather than the human side of the housing market.  
+
+    As a collective of activists and techworkers, the Anti-Eviction Mapping Project is interested in exploring and exposing the power relationships underpinning the housing market in the Bay Area. 
+    What would a map of housing data from the perspective of tenants, rather than home-buyers, look like?  
+    In what ways is data perceived as &quot;objective&quot;, while actually reinforcing existing hierarchies of power and points of view?
+    How can a visualization evoke a more human realtionship to the data it represents?
+
+    Design &amp; development: Olivia Jack
+    Concept and data gathering: Anti-Eviction Mapping Project
+    Created using d3.js, Leaflet, and CartoDB.
+
+
+
+
+
+
+    buyers and sellers in theData about the housing market is collected by the assesors office and real estate companies in order to expedite these economic transactions. 
+
+
+
+
+    Most maps of housing data are created by real estate companies, for the purpose of helping people decide which houses to buy. These maps focus on the economic value of each of these transactions, and the resulting geographic territory is displayed as blocks of color [in an economic landscape]. Data about the housing market is collected by the assesors office and real estate companies in order to expedite these economic transactions. The goal of these maps is to obscure the human underpinnings of each of these transactions.
+
+
+
+    This is a data visualization of housing data in San Francisco, and it is also a map of loss, of an epidemic .. Each individual dot is a building in which every unit was forced to leave The data is not aggregated into any sort of
+    THis series of maps documents the loss that San Francisco is facing as long-time residents are forced to look for housing elsewhere.
+
+    As someone who has lived my entire life in San Frac
+
+    A driving question in beginning to
+    As someone born in San Francisco working in technology, can see that the city is changing rapidly as housing prices ...
+
+
+
+     Most maps of housing data are created by real estate companies, for the purpose of helping people cecide which houses to buy. These maps focus on the economic value of each of these transactions, and the re
+
+     How can data evoke a more human relationship .... 
+
+     although the data used in this map is supposedly public data
+
+    Part of the process of creating this map was exploring, what would a map from the perspective of tenants look like?  
+
+
+    //How can activists and tech workers come together to work to create a San Francisco that supports the needs of long-time residensts.
+--&gt;</description>
     </item>
     <item>
       <title>Soundstation</title>
@@ -70,11 +134,21 @@ Map of all &lt;a href=&quot;http://www.antievictionmappingproject.net/combined.h
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 Interactive exploration of sounds found in the gardens of the Oakland Museum.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/articles/soundstation/home.png&quot; alt=&quot;splash&quot;&gt;
-&lt;img src=&quot;/articles/soundstation/detail.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/113040714?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&quot; width=&quot;700&quot; height=&quot;394&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/soundstation/home.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/113040714?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&amp;amp;autoplay=1&amp;amp;loop=1&quot; width=&quot;700&quot; height=&quot;393&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+Sounds of each animal are represented by colorful, dynamic dots that change appearance according to pitch and intensity. Sounds are located in 3d space , so that shifting perspective changes both the imagery and the perceived locations of the different sounds. By touching a sound dot, the viewer can isolate that sound and discover which animal makes each noise. 
+&lt;/br&gt;
+&lt;/br&gt;
 &lt;img src=&quot;/articles/soundstation/visitors.png&quot; alt=&quot;splash&quot;&gt;
 &lt;img src=&quot;/articles/soundstation/gallery.jpg&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Concept, design, and development: Olivia Jack
+&lt;/br&gt;Sound editing: Tana Sprague
+&lt;/br&gt;Sounds from the Oakland Museum of California Library of natural sounds
+&lt;/br&gt;Created using Flash Actionscript 3.0 and Away3D&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/soundstation/detail.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -106,21 +180,8 @@ Animated map of flight paths of the California Condor, with a side-panel that sh
 &lt;p&gt;&lt;img src=&quot;/articles/condors/fullscreen.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/condors/loop.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Process:&lt;/p&gt;
-&lt;p&gt;I created the animated paths using Processing, by plotting a the location at each incremental hour of the Condor’s flight, and then saving the frame. The thickness of the path at each point varies according to the elevation of the underlying terrain, giving the paths a hand-drawn, organic feel. 
+&lt;p&gt;The animated paths were created in Processing, by plotting a the location at each incremental hour of the Condor’s flight, and then saving the frame. The thickness of the path at each point varies according to the elevation of the underlying terrain, giving the paths a hand-drawn, organic feel. 
 I used GoogleEarth Javascript API to capture the view at each coordinate and angle of view (tangent) along the path. A NodeJS server communicated between the Processing App and the Javascript API to keep them in sync, and communicated with terminal to take a screenshot of the Google Earth window at each point in the Condor’s trajectory. Finally, I assembled the 100,000 frames into a video.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Yosemite's Disappearing Glaciers</title>
-      <link>http://ojack.github.io/articles/glaciers/</link>
-      <pubDate>Mon, 29 Apr 2013 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://ojack.github.io/articles/glaciers/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
-Interface for comparing before and after images of glaciers in Yosemite.
-&lt;img src=&quot;/articles/glaciers/full.png&quot; alt=&quot;splash&quot;&gt;
-&lt;img src=&quot;/articles/glaciers/chair.jpg&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Technology: Javascript running on an iPad kiosk&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -145,12 +206,21 @@ Interface for comparing before and after images of glaciers in Yosemite.
       <guid isPermaLink="true">http://ojack.github.io/articles/oakland-then-now/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
-OAKLAND NOW AND THEN: photo &amp;amp; map-based exploration of past and present landscapes&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/articles/oakland-then-now/oakland-then-now.png&quot; alt=&quot;splash&quot;&gt;
-&lt;img src=&quot;/articles/oakland-then-now/screenshot.png&quot; alt=&quot;splash&quot;&gt;
-&lt;img src=&quot;/articles/oakland-then-now/hand.png&quot; alt=&quot;splash&quot;&gt;
-[prototyping in the gallery]
+OAKLAND THEN AND NOW: photo &amp;amp; map-based exploration of past and present habitats, created for the Natural Sciences gallery at Oakland Museum of California.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/116558796?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&amp;amp;autoplay=1&amp;amp;loop=1&quot; width=&quot;700&quot; height=&quot;393&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/br&gt;
+Located in the “Nature in Oakland” section of the Sciences gallery, this interactive experience connects scientific information about Oakland vegetation with real places that are familiar to the vistor. The map is based off of historical ecology data provided by ecologist Todd Keeler-Wolf. &lt;/p&gt;
+&lt;p&gt;Visitors to the museum can touch a point on a modern map of Oakland and see their house, school, or favorite park juxtaposed with images of what that place used to look like. The photo-based nature of the experience connects to things that people intuitively know about what they see in their neighborhood: we are not simply told that a particular swath of land used to be ‘Coastal Grassland’, but can see visual similarities between patches of grass still in the neighborhood and the grassland that used to be there. &lt;/p&gt;
+&lt;p&gt;Working on this project as a developer and cartographer has been an iterative process to figure out how to best use technology to create an accessible and responsive interface, and how to move beyond a map with abstract color blocks into something more relatable and intuitive to human beings.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/oakland-then-now/oakland-then-now.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/oakland-then-now/screenshot.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Interface Design and Development: Olivia Jack
+&lt;/br&gt;Graphic Design: Joe Bromley
+&lt;/br&gt;Oakland Museum of California, Natural Sciences Gallery&lt;/p&gt;
+&lt;p&gt;Created using Javascript, Leaflet, and Google Maps Street View service.&lt;/p&gt;
+&lt;p&gt;[prototyping in the gallery]
 &lt;img src=&quot;/articles/oakland-then-now/prototyping.jpg&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;!---The experience is a visual foray into the legacy of European colonization and 300 years of development.--&gt;
 </description>
     </item>
     <item>
