@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>olivia jack</title>
-    <atom:link href="http://ojack.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://ojack.github.io</link>
+    <atom:link href="https://ojack.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>https://ojack.github.io</link>
     <description>portfolio</description>
-    <pubDate>Fri, 29  Aug 2014 19:00:00 -0500</pubDate>
+    <pubDate>Fri, 29  Aug 2014 20:00:00 -0400</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
       <title>Laboratory of Possibilities</title>
-      <link>http://ojack.github.io/articles/futures/</link>
-      <pubDate>Fri, 29  Aug 2014 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://ojack.github.io/articles/futures/</guid>
+      <link>https://ojack.github.io/articles/futures/</link>
+      <pubDate>Fri, 29  Aug 2014 20:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://ojack.github.io/articles/futures/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 Collabortive drawing + storytelling project about California’s future, created for the Oakland Museum of California’s Natural Science Gallery. A space for reflection and conversation about the impacts of humans on the environment, global shifts and possibilities both dire and hopeful. &lt;/p&gt;
@@ -32,9 +32,9 @@ Prototyping: Melissa Standen &lt;/br&gt;&lt;/p&gt;
     </item>
     <item>
       <title>Anti-Eviction Mapping Project</title>
-      <link>http://ojack.github.io/articles/ellis-evictions/</link>
+      <link>https://ojack.github.io/articles/ellis-evictions/</link>
       <pubDate>Wed, 29 Jan 2014 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://ojack.github.io/articles/ellis-evictions/</guid>
+      <guid isPermaLink="true">https://ojack.github.io/articles/ellis-evictions/</guid>
       <author></author>
       <description>&lt;p&gt;Created &lt;a href=&quot;http://www.antievictionmappingproject.net/ellis.html&quot;&gt;a series of maps&lt;/a&gt; as part of the Anti-Eviction Mapping Project, a data-visualization and digital storytelling collective working to document the housing crisis in San Francisco, California.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.antievictionmappingproject.net/ellis.html&quot;&gt;&lt;img src=&quot;/articles/ellis-evictions/thumb1.png&quot; alt=&quot;Ellis&quot;&gt;&lt;/a&gt;
@@ -128,9 +128,9 @@ Map of all &lt;a href=&quot;http://www.antievictionmappingproject.net/combined.h
     </item>
     <item>
       <title>Soundstation</title>
-      <link>http://ojack.github.io/articles/soundstation/</link>
+      <link>https://ojack.github.io/articles/soundstation/</link>
       <pubDate>Sat, 30 Nov 2013 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://ojack.github.io/articles/soundstation/</guid>
+      <guid isPermaLink="true">https://ojack.github.io/articles/soundstation/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 Interactive exploration of sounds found in the gardens of the Oakland Museum.&lt;/p&gt;
@@ -139,7 +139,7 @@ Interactive exploration of sounds found in the gardens of the Oakland Museum.&lt
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-Sounds of each animal are represented by colorful, dynamic dots that change appearance according to pitch and intensity. Sounds are located in 3d space , so that shifting perspective changes both the imagery and the perceived locations of the different sounds. By touching a sound dot, the viewer can isolate that sound and discover which animal makes each noise. 
+Sounds of each animal are represented by colorful, dynamic dots that change appearance according to pitch and intensity. Sounds are located in 3d space, so that shifting perspective changes both the imagery and the perceived locations of the different sounds. By touching a sound dot, the viewer can isolate that sound and discover which animal makes each noise. 
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;img src=&quot;/articles/soundstation/visitors.png&quot; alt=&quot;splash&quot;&gt;
@@ -153,9 +153,9 @@ Sounds of each animal are represented by colorful, dynamic dots that change appe
     </item>
     <item>
       <title>Migration Patterns</title>
-      <link>http://ojack.github.io/articles/migration/</link>
-      <pubDate>Fri, 31 May 2013 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://ojack.github.io/articles/migration/</guid>
+      <link>https://ojack.github.io/articles/migration/</link>
+      <pubDate>Fri, 31 May 2013 20:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://ojack.github.io/articles/migration/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 Data Visualization of Migration patterns of Pacific Predators, developed for the Gallery of California Natural Sciences at Oakland Museum of California. &lt;/p&gt;
@@ -171,9 +171,9 @@ Data Visualization of Migration patterns of Pacific Predators, developed for the
     </item>
     <item>
       <title>Flight of the Condors</title>
-      <link>http://ojack.github.io/articles/condors/</link>
-      <pubDate>Mon, 29 Apr 2013 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://ojack.github.io/articles/condors/</guid>
+      <link>https://ojack.github.io/articles/condors/</link>
+      <pubDate>Mon, 29 Apr 2013 20:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://ojack.github.io/articles/condors/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 Animated map of flight paths of the California Condor, with a side-panel that shows the “condor-eye-view” as rendered in Google Earth.&lt;/p&gt;
@@ -186,9 +186,9 @@ I used GoogleEarth Javascript API to capture the view at each coordinate and ang
     </item>
     <item>
       <title>Selfie Apocalypse</title>
-      <link>http://ojack.github.io/articles/selfie-apocalypse/</link>
-      <pubDate>Mon, 29 Apr 2013 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://ojack.github.io/articles/selfie-apocalypse/</guid>
+      <link>https://ojack.github.io/articles/selfie-apocalypse/</link>
+      <pubDate>Mon, 29 Apr 2013 20:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://ojack.github.io/articles/selfie-apocalypse/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 [in progress] A set of experiments using webRTC in the browser.&lt;/br&gt;
@@ -201,9 +201,9 @@ I used GoogleEarth Javascript API to capture the view at each coordinate and ang
     </item>
     <item>
       <title>Oakland Then and Now</title>
-      <link>http://ojack.github.io/articles/oakland-then-now/</link>
-      <pubDate>Sun, 31 Mar 2013 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://ojack.github.io/articles/oakland-then-now/</guid>
+      <link>https://ojack.github.io/articles/oakland-then-now/</link>
+      <pubDate>Sun, 31 Mar 2013 20:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://ojack.github.io/articles/oakland-then-now/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 OAKLAND THEN AND NOW: photo &amp;amp; map-based exploration of past and present habitats, created for the Natural Sciences gallery at Oakland Museum of California.&lt;/p&gt;
@@ -225,9 +225,9 @@ Located in the “Nature in Oakland” section of the Sciences gallery, this int
     </item>
     <item>
       <title>City-cell</title>
-      <link>http://ojack.github.io/articles/city-cell/</link>
+      <link>https://ojack.github.io/articles/city-cell/</link>
       <pubDate>Mon, 29 Jan 2007 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://ojack.github.io/articles/city-cell/</guid>
+      <guid isPermaLink="true">https://ojack.github.io/articles/city-cell/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 Pen and ink on paper
