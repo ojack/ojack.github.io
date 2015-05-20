@@ -1,0 +1,299 @@
+h1, h2, h3, h4, h5, h6, p, body, a, img, ul, ol, blockquote, pre {
+  margin: 0; padding: 0; border: 0;
+}
+
+body {
+ /* font-family: 'Lora', serif;
+ font-family: 'Rajdhani', sans-serif;*/
+ font-family: 'Inconsolata', sans-serif;
+  font-size: 14px;
+  line-height: 1.52;
+  background-color: #f8f8f8;
+  text-rendering: optimizeLegibility;
+  padding-left: 8%;
+}
+
+
+body, a {
+  color: #171717;
+}
+
+pre {
+  font-size: 0.9em;
+  overflow: auto;
+  background: #fff;
+  border: 1px dashed #d2d2d2;
+  border-radius: 0.25em;
+  margin-bottom: 1.8em;
+  padding: 1em;
+}
+
+a:hover {
+  color: #ff8000;
+  text-decoration: underline;
+}
+
+p {
+  margin-bottom: 1.52em;
+}
+
+h1 {
+  font-size: 2.2em;
+  margin-bottom: 0.4em;
+  font-style: italic;
+  font-weight: 400;
+  margin: 0.4em 0;
+}
+
+h2 {
+  font-size: 1.2em;
+  font-weight: 400;
+  line-height: 1.43;
+  margin-bottom: 1.35em;
+}
+
+h3 {
+  font-style: italic;
+  /*text-align: center;*/
+  font-weight: 400;
+  font-size: 1.4em;
+  margin-top: 1.8em;
+  margin-bottom: 0.8em;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+blockquote {
+  margin: 1.2em 3em;
+  padding-left: 1em;
+  font-style: italic;
+}
+
+hr {
+  border: 0;
+  border-top: 1px dashed #d2d2d2;
+  height: 0;
+  margin: 1.6em 0;
+}
+.article ul {
+  margin: 0 1.4em 1.4em 4em;
+}
+
+/* article */
+
+.article {
+  margin: 3em 0 4em;
+  max-width: 800px;
+}
+
+.article header {
+  border-top: 1px dashed #d2d2d2;
+}
+
+.article header h2 {
+  font-style: italic;
+  text-align: center;
+  font-weight: 400;
+  margin: 0.8em 0;
+  font-size: 1.4em;
+}
+
+.article header h2 a {
+  text-decoration: none;
+}
+
+.article header .date {
+  text-align: center;
+  font-size: 0.8em;
+  margin-top: -0.7em;
+}
+
+.article header .date span {
+  background-color: #f8f8f8;
+  padding: 0 0.7em;
+}
+
+.article.intro .content p {
+  display: inline;
+}
+
+.article p{
+  max-width: 700px;
+}
+
+.article.intro .content .more {
+  text-decoration: underline;
+  font-weight: 700;
+  padding-left: 0.3em;
+}
+
+.article .content img {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  max-width: 700px;
+}
+
+.more, .date {
+  /*font-family: 'Merriweather', serif;*/
+  font-variant: small-caps;
+  text-transform: lowercase;
+  font-weight: 400;
+  text-rendering: auto;
+  letter-spacing: 1px;
+}
+
+
+
+
+footer {
+  margin: 3em 0;
+}
+
+footer .nav {
+  text-align: center;
+  margin-top: 5em;
+  margin-bottom: 3.5em;
+}
+
+footer .nav a {
+  padding: 0 0.5em;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+footer .about {
+  border-top: 1px dashed #d2d2d2;
+  padding: 2.2em 3em;
+  font-size: 0.7em;
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  -ms-column-count: 3;
+  column-count: 3;
+  -webkit-column-gap: 2em;
+  -moz-column-gap: 2em;
+  -ms-column-gap: 2em;
+  column-gap: 2em;
+}
+
+footer .copy {
+  text-align: center;
+  font-size: 0.7em;
+  font-style: italic;
+  margin-top: 1em;
+}
+
+footer .copy, footer .copy a {
+  color: #8e8e8e;
+}
+
+#iframe{
+  width: 100%;
+  margin-left: -10%;
+  height: 800px;
+}
+
+
+
+
+
+.menuBar li
+{
+	display: inline;
+	width: 800px;
+	list-style-type: none;
+	
+	font-weight: 300;
+	cursor: pointer;
+	margin: 0px;
+}
+
+#topBar li{
+	padding-right: 40px;
+}
+
+#filter li{
+	padding-right: 20px;
+	color: #666;
+}
+
+#filters{
+	padding-right: 20px;
+}
+.filter {
+	font-size: 12px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+	font-weight: 200;
+	color: #666;
+	border-bottom: none;
+	
+}
+
+#name{
+	font-size: 2.1em;
+  font-weight: 1000;
+ /* margin-left: 10%*/
+  
+}
+
+.highlight{
+	border-bottom: 1px dotted;
+}
+
+.header {
+  margin: 1.5em 0 1.5em;
+  /*margin-left: 10%;*/
+}
+
+.header h1 {
+  font-size: 2.6em;
+  text-align: center;
+  font-weight: 700;
+  /*margin: 0;*/
+}
+
+.header a, .header a:hover {
+  text-decoration: none;
+  color: #171717;
+}
+
+img{
+	margin-top: 10px;
+	width: 80%;
+	max-width: 700px;
+	margin-bottom: 10px;
+}
+
+.vid{
+	width: 80%;
+	height: auto;
+	max-width: 700px;
+}
+
+.content-wrap {
+  width: 90%;
+  max-width: 750px;
+  margin-top: 20px;
+
+/*  margin: 0 auto;
+  margin-left: 10%;
+  margin-right: 10%;*/
+}
+
+img[alt="me"] { 
+  max-width:  320px; 
+}
+
+@media (max-width: 690px) {
+	h1 {
+  font-size: 1.5em;
+}
+
+#name {
+	display: block;
+}
+}

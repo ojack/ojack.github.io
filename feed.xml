@@ -21,7 +21,7 @@ Collabortive drawing + storytelling project about California’s future, created
 &lt;p&gt;The experience consists of two primary components: a large-scale, immersive visualization as well as several “input stations” where visitors can build off of previous ideas, as well as add their own. &lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/articles/futures/detail.png&quot; alt=&quot;splash&quot;&gt;
 &lt;img src=&quot;/articles/futures/draw.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/112487926?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&amp;amp;autoplay=0&amp;amp;loop=1&quot; width=&quot;700&quot; height=&quot;393&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;iframe class=&quot;vid&quot; src=&quot;//player.vimeo.com/video/112487926?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&amp;amp;autoplay=0&amp;amp;loop=1&quot; width=&quot;700&quot; height=&quot;393&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;img src=&quot;/articles/futures/projection.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
 &lt;p&gt;The installation is built using NodeJS, websockets, a MongoDB database, and node-webkit.&lt;/p&gt;
 &lt;p&gt;Software Development and Interface Design: Olivia Jack &lt;/br&gt;

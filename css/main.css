@@ -13,12 +13,12 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-.content-wrap {
- /* width: 34em;*/
+/*.content-wrap {
+ /* width: 34em;
   margin: 0 auto;
   margin-left: 10%;
   margin-right: 10%;
-}
+}*/
 
 body, a {
   color: #171717;
@@ -127,7 +127,7 @@ hr {
   text-align: center;
   margin-top: -0.3em;
 }
-
+/*
 body.article-detail > header h1 {
   font-size: 2.5em;
   font-style: italic;
@@ -137,7 +137,7 @@ body.article-detail > header h1 {
 
 body.article-detail > header {
   margin-bottom: 3em;
-}
+}*/
 
 /* page footer */
 
@@ -184,7 +184,7 @@ footer .copy, footer .copy a {
 
 /* article */
 
-.article {
+/*.article {
   margin: 3em 0 4em;
   max-width: 800px;
 }
@@ -221,7 +221,7 @@ footer .copy, footer .copy a {
 }
 
 .article p{
-  /*max-width: 700px;*/
+  /*max-width: 700px;
 }
 
 .article.intro .content .more {
@@ -234,8 +234,8 @@ footer .copy, footer .copy a {
   display: block;
   width: 100%;
   margin-bottom: 10px;
-  /*max-width: 700px;*/
-}
+  /*max-width: 700px;
+}*/
 
 .more, .date {
   /*font-family: 'Merriweather', serif;*/
@@ -395,61 +395,5 @@ code.lang-markdown .bullet {
   color: #8959a8;
 }
 
-/* media queries */
 
-@media (min-width: 1600px) {
-  body { font-size: 14px; }
-}
-
-@media (max-width: 900px) {
-  body { font-size: 14px; }
-}
-
-@media (max-width: 690px) {
-  .content-wrap {
-    width: auto;
-    padding: 0 1em;
-  }
-  .header {
-    margin: 1em 0;
-  }
-  .header h1 {
-    font-size: 1.4em;
-    margin-bottom: 0.6em;
-  }
-  .header .description {
-    font-size: 1em;
-  }
-  .article {
-    margin: 1em 0 2.5em;
-  }
-  .archive {
-    width: 80%;
-    margin: 0 auto;
-  }
-  .archive * {
-    float: none !important;
-    line-height: 1.6 !important;
-    width: auto !important;
-    height: auto !important;
-    text-align: left !important;
-    border: 0 !important;
-    margin: 0 !important;
-  }
-  footer .nav {
-    margin: 1em 0;
-  }
-  footer .about {
-    padding: 0;
-    font-size: 0.9em;
-    padding-top: 1.6em;
-    -webkit-column-count: 1;
-    -moz-column-count: 1;
-    -ms-column-count: 1;
-    column-count: 1;
-  }
-  footer .about p {
-    margin-bottom: 1em;
-  }
-}
 
