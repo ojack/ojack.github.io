@@ -5,13 +5,28 @@
     <atom:link href="https://ojack.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>https://ojack.github.io</link>
     <description>portfolio</description>
-    <pubDate>Fri, 29  Aug 2014 20:00:00 -0400</pubDate>
+    <pubDate>Sat, 24 Jan 2015 19:00:00 -0500</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
+      <title>Quia, la misma otra de siempre</title>
+      <link>https://ojack.github.io/articles/quia/</link>
+      <pubDate>Sat, 24 Jan 2015 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://ojack.github.io/articles/quia/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
+[in progress] Programming interactive visuals for the experimental dance performance QUIA, la misma otra de siempre.&lt;/p&gt;
+&lt;iframe src=&quot;//player.vimeo.com/video/98344163?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&amp;amp;autoplay=1&amp;amp;loop=1&quot; width=&quot;700&quot; height=&quot;393&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Creation, Direction, and Video Mapping: Edna Orozco &lt;/br&gt;
+Choreography and Dance: Juana del Mar Jiménez &lt;/br&gt;
+Interactive Programming: Olivia Jack&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Laboratory of Possibilities</title>
       <link>https://ojack.github.io/articles/futures/</link>
-      <pubDate>Fri, 29  Aug 2014 20:00:00 -0400</pubDate>
+      <pubDate>Fri, 29  Aug 2014 19:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/futures/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
@@ -154,7 +169,7 @@ Sounds of each animal are represented by colorful, dynamic dots that change appe
     <item>
       <title>Migration Patterns</title>
       <link>https://ojack.github.io/articles/migration/</link>
-      <pubDate>Fri, 31 May 2013 20:00:00 -0400</pubDate>
+      <pubDate>Fri, 31 May 2013 19:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/migration/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
@@ -172,7 +187,7 @@ Data Visualization of Migration patterns of Pacific Predators, developed for the
     <item>
       <title>Flight of the Condors</title>
       <link>https://ojack.github.io/articles/condors/</link>
-      <pubDate>Mon, 29 Apr 2013 20:00:00 -0400</pubDate>
+      <pubDate>Mon, 29 Apr 2013 19:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/condors/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
@@ -187,7 +202,7 @@ I used GoogleEarth Javascript API to capture the view at each coordinate and ang
     <item>
       <title>Selfie Apocalypse</title>
       <link>https://ojack.github.io/articles/selfie-apocalypse/</link>
-      <pubDate>Mon, 29 Apr 2013 20:00:00 -0400</pubDate>
+      <pubDate>Mon, 29 Apr 2013 19:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/selfie-apocalypse/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
@@ -202,7 +217,7 @@ I used GoogleEarth Javascript API to capture the view at each coordinate and ang
     <item>
       <title>Oakland Then and Now</title>
       <link>https://ojack.github.io/articles/oakland-then-now/</link>
-      <pubDate>Sun, 31 Mar 2013 20:00:00 -0400</pubDate>
+      <pubDate>Sun, 31 Mar 2013 19:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/oakland-then-now/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
