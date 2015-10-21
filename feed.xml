@@ -2,17 +2,53 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>olivia jack</title>
-    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://localhost:8080</link>
+    <atom:link href="https://ojack.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>https://ojack.github.io</link>
     <description>portfolio</description>
-    <pubDate>Sat, 24 Jan 2015 19:00:00 -0500</pubDate>
+    <pubDate>Sun, 19 Jul 2015 19:00:00 -0500</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>Quia, la misma otra de siempre</title>
-      <link>http://localhost:8080/articles/quia/</link>
+      <title>maps for getting lost</title>
+      <link>https://ojack.github.io/articles/maps-for-getting-lost/</link>
+      <pubDate>Sun, 19 Jul 2015 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://ojack.github.io/articles/maps-for-getting-lost/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
+[in progress] Generative and self-destructive streetmaps drawn into the browser.&lt;/p&gt;
+&lt;h2 id=&quot;-ghost-maps-http-ojack-github-io-ghost-map-code-https-github-com-ojack-ghost-map-&quot;&gt;&lt;a href=&quot;http://ojack.github.io/ghost-map&quot;&gt;GHOST MAPS&lt;/a&gt; | &lt;a href=&quot;https://github.com/ojack/ghost-map&quot;&gt;Code&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/maps-for-getting-lost/manhattan.png&quot; alt=&quot;splash&quot;&gt;
+&lt;img src=&quot;/articles/maps-for-getting-lost/thumb.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Featured on &lt;a href=&quot;https://www.chromeexperiments.com/experiment/ghost-maps&quot;&gt;Chrome Experiments&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;-cloth-maps-http-ojack-github-io-cloth-map-code-https-github-com-ojack-cloth-map-&quot;&gt;&lt;a href=&quot;http://ojack.github.io/cloth-map/&quot;&gt;CLOTH MAPS&lt;/a&gt; | &lt;a href=&quot;https://github.com/ojack/cloth-map&quot;&gt;Code&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/maps-for-getting-lost/cloth1.png&quot; alt=&quot;splash&quot;&gt;
+&lt;img src=&quot;/articles/maps-for-getting-lost/cloth2.png&quot; alt=&quot;splash&quot;&gt;
+&lt;img src=&quot;/articles/maps-for-getting-lost/cloth3.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Selfie Apocalypse</title>
+      <link>https://ojack.github.io/articles/selfie-apocalypse/</link>
+      <pubDate>Fri, 29 May 2015 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://ojack.github.io/articles/selfie-apocalypse/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
+A set of experiments + gif generator, creating using javascript + webRTC and custom shaders in the browser. &lt;/br&gt;&lt;/p&gt;
+&lt;h2 id=&quot;-live-version-http-ojack-github-io-selfie-apocalypse-requires-chrome-or-firefox-and-a-webcam-&quot;&gt;&lt;a href=&quot;http://ojack.github.io/selfie-apocalypse&quot;&gt;Live Version&lt;/a&gt; (requires Chrome or Firefox and a webcam)&lt;/h2&gt;
+&lt;h2 id=&quot;-code-https-github-com-ojack-selfie-apocalypse-&quot;&gt;&lt;a href=&quot;https://github.com/ojack/selfie-apocalypse&quot;&gt;Code&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/selfie-apocalypse/everything.gif&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/selfie-apocalypse/symmetry.gif&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/selfie-apocalypse/paige.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/selfie-apocalypse/jitter.gif&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/selfie-apocalypse/criss-cross.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/selfie-apocalypse/spiral.jpg&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>programming for Quia, la misma otra de siempre</title>
+      <link>https://ojack.github.io/articles/quia/</link>
       <pubDate>Sat, 24 Jan 2015 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/quia/</guid>
+      <guid isPermaLink="true">https://ojack.github.io/articles/quia/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 [in progress] Programming interactive visuals for the experimental dance performance QUIA, la misma otra de siempre.&lt;/p&gt;
@@ -25,9 +61,9 @@ Interactive Programming: Olivia Jack&lt;/p&gt;
     </item>
     <item>
       <title>Laboratory of Possibilities</title>
-      <link>http://localhost:8080/articles/futures/</link>
+      <link>https://ojack.github.io/articles/futures/</link>
       <pubDate>Fri, 29  Aug 2014 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/futures/</guid>
+      <guid isPermaLink="true">https://ojack.github.io/articles/futures/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 Collabortive drawing + storytelling project about California’s future, created for the Oakland Museum of California’s Natural Science Gallery. A space for reflection and conversation about the impacts of humans on the environment, global shifts and possibilities both dire and hopeful. &lt;/p&gt;
@@ -47,9 +83,9 @@ Prototyping: Melissa Standen &lt;/br&gt;&lt;/p&gt;
     </item>
     <item>
       <title>Anti-Eviction Mapping Project</title>
-      <link>http://localhost:8080/articles/ellis-evictions/</link>
+      <link>https://ojack.github.io/articles/ellis-evictions/</link>
       <pubDate>Wed, 29 Jan 2014 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/ellis-evictions/</guid>
+      <guid isPermaLink="true">https://ojack.github.io/articles/ellis-evictions/</guid>
       <author></author>
       <description>&lt;p&gt;Created &lt;a href=&quot;http://www.antievictionmappingproject.net/ellis.html&quot;&gt;a series of maps&lt;/a&gt; as part of the Anti-Eviction Mapping Project, a data-visualization and digital storytelling collective working to document the housing crisis in San Francisco, California.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.antievictionmappingproject.net/ellis.html&quot;&gt;&lt;img src=&quot;/articles/ellis-evictions/thumb1.png&quot; alt=&quot;Ellis&quot;&gt;&lt;/a&gt;
@@ -143,9 +179,9 @@ Map of all &lt;a href=&quot;http://www.antievictionmappingproject.net/combined.h
     </item>
     <item>
       <title>Soundstation</title>
-      <link>http://localhost:8080/articles/soundstation/</link>
+      <link>https://ojack.github.io/articles/soundstation/</link>
       <pubDate>Sat, 30 Nov 2013 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/soundstation/</guid>
+      <guid isPermaLink="true">https://ojack.github.io/articles/soundstation/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 Interactive exploration of sounds found in the gardens of the Oakland Museum.&lt;/p&gt;
@@ -168,9 +204,9 @@ Sounds of each animal are represented by colorful, dynamic dots that change appe
     </item>
     <item>
       <title>Migration Patterns</title>
-      <link>http://localhost:8080/articles/migration/</link>
+      <link>https://ojack.github.io/articles/migration/</link>
       <pubDate>Fri, 31 May 2013 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/migration/</guid>
+      <guid isPermaLink="true">https://ojack.github.io/articles/migration/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 Data Visualization of Migration patterns of Pacific Predators, developed for the Gallery of California Natural Sciences at Oakland Museum of California. &lt;/p&gt;
@@ -185,40 +221,10 @@ Data Visualization of Migration patterns of Pacific Predators, developed for the
 </description>
     </item>
     <item>
-      <title>Flight of the Condors</title>
-      <link>http://localhost:8080/articles/condors/</link>
-      <pubDate>Mon, 29 Apr 2013 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/condors/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
-Animated map of flight paths of the California Condor, with a side-panel that shows the “condor-eye-view” as rendered in Google Earth.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/articles/condors/fullscreen.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/articles/condors/loop.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Process:&lt;/p&gt;
-&lt;p&gt;The animated paths were created in Processing, by plotting a the location at each incremental hour of the Condor’s flight, and then saving the frame. The thickness of the path at each point varies according to the elevation of the underlying terrain, giving the paths a hand-drawn, organic feel. 
-I used GoogleEarth Javascript API to capture the view at each coordinate and angle of view (tangent) along the path. A NodeJS server communicated between the Processing App and the Javascript API to keep them in sync, and communicated with terminal to take a screenshot of the Google Earth window at each point in the Condor’s trajectory. Finally, I assembled the 100,000 frames into a video.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Selfie Apocalypse</title>
-      <link>http://localhost:8080/articles/selfie-apocalypse/</link>
-      <pubDate>Mon, 29 Apr 2013 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/selfie-apocalypse/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
-[in progress] A set of experiments using webRTC in the browser.&lt;/br&gt;
-&lt;a href=&quot;http://ojack.github.io/selfie-apocalypse&quot;&gt;Demo here&lt;/a&gt; (requires Chrome or Firefox and a webcam)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/articles/selfie-apocalypse/glitch.gif&quot; alt=&quot;splash&quot;&gt;
-&lt;img src=&quot;/articles/selfie-apocalypse/circle.gif&quot; alt=&quot;splash&quot;&gt;
-&lt;img src=&quot;/articles/selfie-apocalypse/pulse.gif&quot; alt=&quot;splash&quot;&gt;
-&lt;img src=&quot;/articles/selfie-apocalypse/spiral.jpg&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Oakland Then and Now</title>
-      <link>http://localhost:8080/articles/oakland-then-now/</link>
+      <link>https://ojack.github.io/articles/oakland-then-now/</link>
       <pubDate>Sun, 31 Mar 2013 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/oakland-then-now/</guid>
+      <guid isPermaLink="true">https://ojack.github.io/articles/oakland-then-now/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 OAKLAND THEN AND NOW: photo &amp;amp; map-based exploration of past and present habitats, created for the Natural Sciences gallery at Oakland Museum of California.&lt;/p&gt;
@@ -240,9 +246,9 @@ Located in the “Nature in Oakland” section of the Sciences gallery, this int
     </item>
     <item>
       <title>City-cell</title>
-      <link>http://localhost:8080/articles/city-cell/</link>
+      <link>https://ojack.github.io/articles/city-cell/</link>
       <pubDate>Mon, 29 Jan 2007 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/city-cell/</guid>
+      <guid isPermaLink="true">https://ojack.github.io/articles/city-cell/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
 Pen and ink on paper
