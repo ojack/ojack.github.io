@@ -5,9 +5,78 @@
     <atom:link href="https://ojack.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>https://ojack.github.io</link>
     <description>portfolio</description>
-    <pubDate>Sun, 19 Jul 2015 19:00:00 -0500</pubDate>
+    <pubDate>Sun, 29 May 2016 19:00:00 -0500</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Live Lab</title>
+      <link>https://ojack.github.io/articles/live-lab/</link>
+      <pubDate>Sun, 29 May 2016 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://ojack.github.io/articles/live-lab/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
+[in progress] open source, browser-based toolkit for networked performance, that uses a peer-to-peer mesh network to share video, audio, and data streams between individuals and venues.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/live-lab/microorganismo.png&quot; alt=&quot;microorganism&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Developed by Jesse Ricke and Olivia Jack.
+Supported by &lt;a href=&quot;http://www.culturehub.org/&quot;&gt;CultureHub Art &amp;amp; Technology Center&lt;/a&gt;, La MaMa Experimental Theater Club, and Seoul Institute of the Arts. Project selected for &lt;a href=&quot;http://medialab-prado.es/article/taller-interactivos-20162&quot;&gt;Interactivos? 16: Possible Worlds. Creative and Collaborative Uses of Digital Technology&lt;/a&gt; at MediaLab-Prado in Madrid, June 2016. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://livelabinteractivos.tumblr.com/&quot;&gt;+ MORE INFO&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ojack.github.io/LiveLab/public/&quot;&gt;++ DEMO (requires Chrome 50+)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/ojack/LiveLab&quot;&gt;+++ CODE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/live-lab/merge.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/live-lab/microscope.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>PIXELSYNTH</title>
+      <link>https://ojack.github.io/articles/pixelsynth/</link>
+      <pubDate>Tue, 29 Mar 2016 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://ojack.github.io/articles/pixelsynth/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/pixelsynth/gif1.gif&quot; alt=&quot;splash&quot;&gt;
+&lt;img src=&quot;/articles/pixelsynth/gif2.gif&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;-live-version-https-ojack-github-io-pixelsynth-&quot;&gt;&lt;a href=&quot;https://ojack.github.io/PIXELSYNTH&quot;&gt;Live Version&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;-code-https-github-com-ojack-pixelsynth-&quot;&gt;&lt;a href=&quot;https://github.com/ojack/PIXELSYNTH&quot;&gt;Code&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Browser-based synthesizer for creating sounds from images and drawings, programmed using javascript and Web Audio. &lt;a href=&quot;https://ojack.github.io/PIXELSYNTH&quot;&gt;PIXELSYNTH&lt;/a&gt; is inspired by the analog ANS Synthesizer created by Evgeny Murzin in 1937 for composing musical scores. &lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h1&gt; Press: &lt;/h1&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://boingboing.net/2016/05/19/listen-to-your-images-with-pix.html&quot;&gt;Boing Boing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.chromeexperiments.com/experiment/pixelsynth&quot;&gt;Chrome Experiments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://prostheticknowledge.tumblr.com/post/144825350966/pixelsynth-musical-webtoy-by-olivia-jack-reads&quot;&gt;Prosthetic Knowledge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://killscreen.com/articles/pixelsynth-composes-songs-pictures/&quot;&gt;KILL SCREEN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.factmag.com/2016/05/24/pixelsynth-browser-instrument-turns-images-into-music/&quot;&gt;FACT mag&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>NODOS: cuerpos en expansión</title>
+      <link>https://ojack.github.io/articles/nodos/</link>
+      <pubDate>Sun, 29 Nov 2015 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://ojack.github.io/articles/nodos/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/nodos/lineas.png&quot; alt=&quot;splash&quot;&gt;
+&lt;img src=&quot;/articles/nodos/cubos2.png&quot; alt=&quot;splash&quot;&gt;
+&lt;img src=&quot;/articles/nodos/caja.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Interactive projection mapping using custom software for the experimental dance performance, NODOS, cuerpos en expansión. Dir: Edna Orozco, November 2015.&lt;/p&gt;
+&lt;p&gt;Proyecto ganador de la Beca de creación-investigación en Danza y tecnología del Ministerio de Cultura 2015&lt;/p&gt;
+&lt;p&gt;En cada relación con el entorno, hay un despliegue de rastros invisibles, de nodos de información, que se articulan dando paso a la aparición de un nuevo cuerpo que se expande y se contrae; que se fusiona con otros cuerpos, máquinas o información de otros nodos…&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;Dirección, concepción y producción general: Edna Orozco
+&lt;/br&gt;Bailarines: Sara Fonseca, Yehison Rodríguez y Juan Camilo Herrera
+&lt;/br&gt;Escenografía, diseño gráfico y asesoría coreográfica: Fabio Romero Sterns
+&lt;/br&gt;Diseño y confección de Vestuario: Ricardo Roldán
+&lt;/br&gt;Programación y proyecciones interactivas: Olivia Jack
+&lt;/br&gt;Composición musical: Guillaume Cros
+&lt;/br&gt;Diseño sonoro: Andrés Torres
+&lt;/br&gt;Luminotecnia: Claudia Tobón
+&lt;/br&gt;Arte interactivo: Juan Felipe Cristancho, Eleven Producciones
+&lt;/br&gt;Animación 3D para video Mapping: Luis Alfonso
+&lt;/br&gt;Diseño de personaje virtual: Aristóbulo Romero&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/nodos/rastros.png&quot; alt=&quot;splash&quot;&gt;
+&lt;img src=&quot;/articles/nodos/particulas.png&quot; alt=&quot;splash&quot;&gt;&lt;/p&gt;
+&lt;iframe src=&quot;//player.vimeo.com/video/160448488?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&amp;amp;autoplay=0&amp;amp;loop=0&quot; width=&quot;700&quot; height=&quot;393&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
     <item>
       <title>maps for getting lost</title>
       <link>https://ojack.github.io/articles/maps-for-getting-lost/</link>
@@ -45,13 +114,13 @@ A set of experiments + gif generator, creating using javascript + webRTC and cus
 </description>
     </item>
     <item>
-      <title>programming for Quia, la misma otra de siempre</title>
+      <title>Quia, la misma otra de siempre</title>
       <link>https://ojack.github.io/articles/quia/</link>
       <pubDate>Sat, 24 Jan 2015 19:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/quia/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
-[in progress] Programming interactive visuals for the experimental dance performance QUIA, la misma otra de siempre.&lt;/p&gt;
+Programming interactive visuals for the experimental dance performance QUIA, la misma otra de siempre.&lt;/p&gt;
 &lt;iframe src=&quot;//player.vimeo.com/video/98344163?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&amp;amp;autoplay=1&amp;amp;loop=1&quot; width=&quot;700&quot; height=&quot;393&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Creation, Direction, and Video Mapping: Edna Orozco &lt;/br&gt;
