@@ -5,13 +5,13 @@
     <atom:link href="https://ojack.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>https://ojack.github.io</link>
     <description>portfolio</description>
-    <pubDate>Sun, 29 May 2016 19:00:00 -0500</pubDate>
+    <pubDate>Mon, 30 May 2016 02:00:00 +0200</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
       <title>Live Lab</title>
       <link>https://ojack.github.io/articles/live-lab/</link>
-      <pubDate>Sun, 29 May 2016 19:00:00 -0500</pubDate>
+      <pubDate>Mon, 30 May 2016 02:00:00 +0200</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/live-lab/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
@@ -29,7 +29,7 @@ Supported by &lt;a href=&quot;http://www.culturehub.org/&quot;&gt;CultureHub Art
     <item>
       <title>PIXELSYNTH</title>
       <link>https://ojack.github.io/articles/pixelsynth/</link>
-      <pubDate>Tue, 29 Mar 2016 19:00:00 -0500</pubDate>
+      <pubDate>Wed, 30 Mar 2016 02:00:00 +0200</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/pixelsynth/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
@@ -52,7 +52,7 @@ Supported by &lt;a href=&quot;http://www.culturehub.org/&quot;&gt;CultureHub Art
     <item>
       <title>NODOS: cuerpos en expansión</title>
       <link>https://ojack.github.io/articles/nodos/</link>
-      <pubDate>Sun, 29 Nov 2015 19:00:00 -0500</pubDate>
+      <pubDate>Mon, 30 Nov 2015 01:00:00 +0100</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/nodos/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -81,7 +81,7 @@ Supported by &lt;a href=&quot;http://www.culturehub.org/&quot;&gt;CultureHub Art
     <item>
       <title>maps for getting lost</title>
       <link>https://ojack.github.io/articles/maps-for-getting-lost/</link>
-      <pubDate>Sun, 19 Jul 2015 19:00:00 -0500</pubDate>
+      <pubDate>Mon, 20 Jul 2015 02:00:00 +0200</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/maps-for-getting-lost/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
@@ -99,7 +99,7 @@ Supported by &lt;a href=&quot;http://www.culturehub.org/&quot;&gt;CultureHub Art
     <item>
       <title>Selfie Apocalypse</title>
       <link>https://ojack.github.io/articles/selfie-apocalypse/</link>
-      <pubDate>Fri, 29 May 2015 19:00:00 -0500</pubDate>
+      <pubDate>Sat, 30 May 2015 02:00:00 +0200</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/selfie-apocalypse/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
@@ -117,7 +117,7 @@ A set of experiments + gif generator, creating using javascript + webRTC and cus
     <item>
       <title>Quia, la misma otra de siempre</title>
       <link>https://ojack.github.io/articles/quia/</link>
-      <pubDate>Sat, 24 Jan 2015 19:00:00 -0500</pubDate>
+      <pubDate>Sun, 25 Jan 2015 01:00:00 +0100</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/quia/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
@@ -132,7 +132,7 @@ Interactive Programming: Olivia Jack&lt;/p&gt;
     <item>
       <title>Laboratory of Possibilities</title>
       <link>https://ojack.github.io/articles/futures/</link>
-      <pubDate>Fri, 29  Aug 2014 19:00:00 -0500</pubDate>
+      <pubDate>Sat, 30  Aug 2014 02:00:00 +0200</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/futures/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
@@ -154,7 +154,7 @@ Prototyping: Melissa Standen &lt;/br&gt;&lt;/p&gt;
     <item>
       <title>Anti-Eviction Mapping Project</title>
       <link>https://ojack.github.io/articles/ellis-evictions/</link>
-      <pubDate>Wed, 29 Jan 2014 19:00:00 -0500</pubDate>
+      <pubDate>Thu, 30 Jan 2014 01:00:00 +0100</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/ellis-evictions/</guid>
       <author></author>
       <description>&lt;p&gt;Created &lt;a href=&quot;http://www.antievictionmappingproject.net/ellis.html&quot;&gt;a series of maps&lt;/a&gt; as part of the Anti-Eviction Mapping Project, a data-visualization and digital storytelling collective working to document the housing crisis in San Francisco, California.&lt;/p&gt;
@@ -250,7 +250,7 @@ Map of all &lt;a href=&quot;http://www.antievictionmappingproject.net/combined.h
     <item>
       <title>Soundstation</title>
       <link>https://ojack.github.io/articles/soundstation/</link>
-      <pubDate>Sat, 30 Nov 2013 19:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Dec 2013 01:00:00 +0100</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/soundstation/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
@@ -275,7 +275,7 @@ Sounds of each animal are represented by colorful, dynamic dots that change appe
     <item>
       <title>Migration Patterns</title>
       <link>https://ojack.github.io/articles/migration/</link>
-      <pubDate>Fri, 31 May 2013 19:00:00 -0500</pubDate>
+      <pubDate>Sat, 01 Jun 2013 02:00:00 +0200</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/migration/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
@@ -293,7 +293,7 @@ Data Visualization of Migration patterns of Pacific Predators, developed for the
     <item>
       <title>Oakland Then and Now</title>
       <link>https://ojack.github.io/articles/oakland-then-now/</link>
-      <pubDate>Sun, 31 Mar 2013 19:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Apr 2013 02:00:00 +0200</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/oakland-then-now/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
@@ -317,7 +317,7 @@ Located in the “Nature in Oakland” section of the Sciences gallery, this int
     <item>
       <title>City-cell</title>
       <link>https://ojack.github.io/articles/city-cell/</link>
-      <pubDate>Mon, 29 Jan 2007 19:00:00 -0500</pubDate>
+      <pubDate>Tue, 30 Jan 2007 01:00:00 +0100</pubDate>
       <guid isPermaLink="true">https://ojack.github.io/articles/city-cell/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;
