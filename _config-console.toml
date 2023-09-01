@@ -1,0 +1,26 @@
+baseurl = "https://example.com/"
+title = "olivia jack"
+theme = "hugo-theme-console"
+languageCode = "en-us"
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = false
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+ 
+
+  [[params.navlinks]]
+  name = "work/"
+  url = "work/"
+  
+  [[params.navlinks]]
+  name = "sketches/"
+  url = "sketches/"
+
+   [[params.navlinks]]
+  name = "about/"
+  url = "about/"

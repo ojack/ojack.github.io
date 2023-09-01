@@ -1,0 +1,94 @@
+/* You can add custom styles here. */
+
+// @import "plugins/numbered";
+// @import "plugins/scrollbars";
+:root {
+--color-visited-link: #ee0437;
+--color-link:  #ee0437;
+--body-background: rgb(247, 244, 62);
+}
+
+@font-face {
+    font-family: 'terminal_grotesque';
+    src: url('fonts/terminal-grotesque-webfont.eot');
+    src: url('fonts/terminal-grotesque-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/terminal-grotesque-webfont.woff2') format('woff2'),
+         url('fonts/terminal-grotesque-webfont.woff') format('woff'),
+         url('fonts/terminal-grotesque-webfont.ttf') format('truetype'),
+         url('fonts/terminal-grotesque-webfont.svg#terminal_grotesqueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'karma_future';
+    src: url('fonts/karma_future-webfont.woff2') format('woff2'),
+         url('fonts/karma_future-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'blockstepped';
+    src: url('fonts/blockstepped-webfont.woff2') format('woff2'),
+         url('fonts/blockstepped-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    // font-family: 'Helvetiva Neue', sans-serif;
+    //  font-family: 'terminal_grotesque', sans-serif;
+    // font-family: 'blockstepped', sans-serif;
+    // font-family: 'karma_future', sans-serif;
+    // line-height: 0.6rem;
+}
+
+.markdown {
+    line-height: 1.2rem;
+}
+
+.markdown h4, .markdown h5, .markdown h6 {
+    font-weight: bolder;
+    margin-bottom: 0.1rem;
+    // font-weight:normal;
+}
+
+aside nav ul li {
+    margin: 0.3em 0em;
+}
+
+.book-brand {
+    font-size: 3.6rem;
+    line-height: 3rem;
+    // text-align: right;
+    font-family: 'karma_future', sans-serif;
+// font-family: 'blockstepped', sans-serif;
+}
+
+// h1 {    
+//      font-family: 'karma_future', sans-serif;
+// }
+
+.book-menu a {
+    // width: 100%;
+    // font-size: 1.3rem;
+    // line-height: 0.8;
+}
+
+// .book-menu a.active {
+//     color: #ef0981;
+//     font-size: 1.3rem;
+// }
+
+// .markdown a:visited {
+//     color: #ef0981;
+// }
+
+// a {
+//     color:  #ef0981;
+// }
