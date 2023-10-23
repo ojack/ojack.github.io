@@ -2,7 +2,18 @@
   <h5>{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</h5>
 {{ end }}
 
-{{ range $taxonomy, $_ := .Site.Taxonomies }}
+{{ with $terms := $.GetTerms "Categories" }}
+  {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
+  <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>,
+  {{- end }}
+{{ end }}
+{{ with $terms := $.GetTerms "Tags" }}
+  {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
+  <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>
+  {{- end }}
+{{ end }}
+
+<!-- {{ range $taxonomy, $_ := .Site.Taxonomies }}
   {{ with $terms := $.GetTerms $taxonomy }}
   <span>
     {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
@@ -10,7 +21,7 @@
     {{- end }}
   </span>
   {{ end }}
-{{ end }}
+{{ end }} -->
 
 {{ if .Params.image }}
 

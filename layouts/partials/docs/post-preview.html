@@ -1,18 +1,21 @@
 <h2><a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a></h2>
 {{ with .Date }}
+  <span class="year">[{{ .Format "2006" }}]</span>
   <!-- <h5>{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</h5> -->
 {{ end }}
-
-{{ range $taxonomy, $_ := .Site.Taxonomies }}
-  {{ with $terms := $.GetTerms $taxonomy }}
-  <div>
-    {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
-      <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>
-    {{- end }}
-  </div>
-  {{ end }}
+<div>
+{{ with $terms := $.GetTerms "Categories" }}
+  {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
+  <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>,
+  {{- end }}
+{{ end }}
+{{ with $terms := $.GetTerms "Tags" }}
+  {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
+  <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>
+  {{- end }}
 {{ end }}
 
+</div>
 {{ if .Params.image }}
 
 <p>

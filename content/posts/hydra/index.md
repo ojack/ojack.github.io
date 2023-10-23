@@ -4,6 +4,7 @@ thumb: hiper.png
 image: hiper.png
 template: article.jade
 tags: ["browser-based", "software", "live coding", "performance"]
+weight: 1
 categories: ['software']
 ---
 

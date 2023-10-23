@@ -1,6 +1,7 @@
 ---
-title: "teaching"
+title: "++++teaching"
 type: "posts"
+bookCollapseSection: true
 ---
 
 

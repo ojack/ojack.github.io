@@ -1,10 +1,25 @@
 ---
 title: "olivia jack"
+bookToc: false
+bookMenu: false
 ---
 
-artist and programmer building [open-source art tools](/tags/software)
+<span style="font-size:1.6rem">artist &&& programmer
+ building [open-source art tools](/tags/software)</span>
+</br>
+ </br>
+[++performances](/categories/performances)
+  [+++media++design](/tags/media-design)
+   [++++teaching](/tags/workshop)
+    [++++experiments](/posts)
+   <!-- , &&& educator -->
+<!-- 
+also [live performances](/categories/performances/), 
+[media design for dance & theater](/tags/media-design), 
+[teaching](/tags/workshops), 
+[ongoing experiments]  -->
 
-<!-- Show recent, [live visuals](/tags/performances),  -->
+![](olivia3.png)
 
 
-<!-- recent: -->
+

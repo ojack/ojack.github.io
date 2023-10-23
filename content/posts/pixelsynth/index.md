@@ -3,7 +3,7 @@ title: PIXELSYNTH
 date: 2016-03-30
 image: thumb3.png
 template: article.jade
-tags: ["browser-based", "software"]
+tags: ["browser-based", "software", "sound"]
 ---
 
 

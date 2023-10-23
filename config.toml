@@ -40,9 +40,16 @@ enableGitInfo = false
 #   weight = 3
 
 [menu]
-  [[menu.before]]
-    name = "works"
-    pageRef = "/posts"
+  # [[menu.before]]
+  #   name = "works"
+  #   pageRef = "/posts"
+  # [[menu.before]]
+  #   name = "performances"
+  #   pageRef = "/categories/performances"
+   [[menu.after]]
+    name = "rss"
+    # pageRef = "/posts"
+    url = "/posts/index.xml"
   #   weight = 10
 # [[menu.after]]
 #   name = "Github"
