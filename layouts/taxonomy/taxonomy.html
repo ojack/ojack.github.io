@@ -1,22 +1,45 @@
 {{ define "main" }}
+<div class="list-holder" style="display:flex;flex-wrap:wrap;">
   {{ range sort .Paginator.Pages }}
-  <article class="markdown book-post">
-    <!-- <h4>
-      <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
-    </h4> -->
-    {{ partial "docs/post-preview" . }}
-    <p>
+
+    <div style="padding:0.0rem" >
+      {{ partial "docs/post-preview" . }}
+
+      <!-- <h2><a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a></h2>
+      {{ with .Date }}
+      <span class="">[{{ .Format "2006" }}]</span>
+      {{ end }}
+     -->
+      <!-- <p>
+      {{- .Summary -}}
+    </p> -->
+      <!-- <p>
       {{- .Summary -}}
       {{ if .Truncated }}
         <a href="{{ .RelPermalink }}">...</a>
       {{ end }}
-    </p>
+    </p> -->
+    </div>
+  <!-- </a> -->
+
+    <!-- {{ with .Date }}
+  <span class="">[{{ .Format "2006" }}]</span>
+{{ end }} -->
+
+    <!-- {{ with $terms := $.GetTerms "Tags" }}
+  {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
+  <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>
+  {{- end }}
+{{ end }} -->
+   
   </article>
   {{ end }}
 
-  {{ template "_internal/pagination.html" . }}
+</div>
+
+{{ template "_internal/pagination.html" . }}
 {{ end }}
 
 {{ define "toc" }}
-  {{ partial "docs/taxonomy" . }}
+{{ partial "docs/taxonomy" . }}
 {{ end }}

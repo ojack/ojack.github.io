@@ -1,11 +1,12 @@
 ---
-title: "hydra"
+title: "hydra video synth"
 thumb: hiper.png
 image: hiper.png
 template: article.jade
-tags: ["browser-based", "software", "live coding", "performance"]
+tags: ["browser-based", "software", "live coding", "hydra"]
 weight: 1
 categories: ['software']
+aliases: ["/articles/hydra"]
 ---
 
 [![hydra](hydra.png)](https://hydra.ojack.xyz)

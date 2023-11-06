@@ -4,6 +4,7 @@ type: "posts"
 # bookToc: false
 bookCollapseSection: true
 bookHidden: true
+aliases: ["/articles/"]
 # bookFlatSection: true
 ---
 

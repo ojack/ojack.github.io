@@ -12,14 +12,17 @@
     {{ end }}
   </ul> -->
 
-  <ul>
-    {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
-    <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
-    <ul>
-        {{ range $taxonomy.Pages }}
-        <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
-        {{ end }}
-    </ul>
+
+<div class="book-section-flat book-toc-content menu-tags">
+    {{ range $key, $taxonomy := .Site.Taxonomies.tags }}
+   <a href="{{ .Page.RelPermalink }}">+++{{ .Page.Title }}++</a>
+  
     {{ end }}
-</ul>
+</div> 
+<!-- {{ partial "docs/toc" . }} -->
+
+<!-- {{ .TableOfContents }} -->
+
+<!-- {{ partial "docs/taxonomy" . }} -->
+
   

@@ -5,6 +5,7 @@ image: thumb.png
 template: article.jade
 tags: ["data visualization", "cartography", "museum"]
 draft: true
+aliases: ["/articles/migration"]
 ---
 
 <span class="more"></span>

@@ -1,22 +1,49 @@
 {{ define "main" }}
+<div class="list-holder" style="display:flex;flex-wrap:wrap;">
   {{ range sort .Paginator.Pages }}
-  <article class="markdown book-post">
-    <!-- <h2>
+  
+    <!-- <h4>
       <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
-    </h2> -->
-    {{ partial "docs/post-preview" . }}
-    <p>
+    </h4> -->
+    <!-- <a href="https://ojack.xyz" style="display:block"> -->
+
+    <div style="padding:0.4rem">
+      {{ partial "docs/post-preview" . }}
+
+      <!-- <h2><a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a></h2>
+      {{ with .Date }}
+      <span class="">[{{ .Format "2006" }}]</span>
+      {{ end }}
+     -->
+      <!-- <p>
+      {{- .Summary -}}
+    </p> -->
+      <!-- <p>
       {{- .Summary -}}
       {{ if .Truncated }}
         <a href="{{ .RelPermalink }}">...</a>
       {{ end }}
-    </p>
-  </article>
+    </p> -->
+    </div>
+  <!-- </a> -->
+
+    <!-- {{ with .Date }}
+  <span class="">[{{ .Format "2006" }}]</span>
+{{ end }} -->
+
+    <!-- {{ with $terms := $.GetTerms "Tags" }}
+  {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
+  <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>
+  {{- end }}
+{{ end }} -->
+   
   {{ end }}
 
-  {{ template "_internal/pagination.html" . }}
+</div>
+
+{{ template "_internal/pagination.html" . }}
 {{ end }}
 
 {{ define "toc" }}
-  {{ partial "docs/taxonomy" . }}
+{{ partial "docs/taxonomy" . }}
 {{ end }}

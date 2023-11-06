@@ -11,7 +11,7 @@ Email me: [rhizomaticode[at]gmail.com][2]
 [Github][1] - [CV][5] - [Twitter][6] - [Instagram][3]
 ******************************************
 
-
+https://www.youtube.com/watch?v=lxLqcl-8GZE
 
 ## WORKSHOPS AND CONFERENCES
 * 2019	[The browser as a modular, networked video synthesizer](https://www.jsconfhi.com/speakers/), JSConf Hawai'i

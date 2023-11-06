@@ -2,8 +2,9 @@
 title: Live Lab
 date: 2016-05-30
 image: mix.png
-tags: ["software", "browser-based", "performance"]
+tags: ["software", "browser-based"]
 categories: ["software"]
+aliases: ["/articles/live-lab"]
 ---
 
 <span class="more"></span>

@@ -4,6 +4,8 @@ date: 2015-11-30
 image: cubos2.png
 template: article.jade
 tags: ["c++", "media-design", "computer-vision", "dance"]
+categories: ["media-design"]
+aliases: ["/articles/nodos"]
 ---
 
 <span class="more"></span>

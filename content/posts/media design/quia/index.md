@@ -2,7 +2,7 @@
 title: Quia, la misma otra de siempre
 date: 2015-01-25
 image: thumb.png
-template: article.jade
+categories: ["media-design"]
 tags: ["computer-vision", "media-design", "dance"]
 ---
 

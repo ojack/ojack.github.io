@@ -5,9 +5,10 @@
   </h1>
   {{ partial "docs/post-meta" . }}
   {{- .Content -}}
+  {{ partial "docs/related" . }}
+
 </article>
 {{ end }}
-
 {{ define "toc" }}
   {{ partial "docs/toc" . }}
 {{ end }}

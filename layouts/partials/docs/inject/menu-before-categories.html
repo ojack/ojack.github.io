@@ -1,0 +1,25 @@
+<!-- {{ partial "docs/taxonomy" . }} -->
+<!-- <ul>
+    {{ range .Site.Taxonomies.categories }}
+      <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+      
+      <input type="checkbox" id="section-{{ md5 .Page }}" class="toggle" checked />
+      <label for="section-{{ md5 .Page }}" class="flex justify-between">
+        <a>
+          {{- partial "docs/title" .Page -}}
+        </a>
+      </label>
+    {{ end }}
+  </ul> -->
+
+  <!-- <ul>
+    {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
+    <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+    <ul>
+        {{ range $taxonomy.Pages }}
+        <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+        {{ end }}
+    </ul>
+    {{ end }}
+</ul> -->
+  

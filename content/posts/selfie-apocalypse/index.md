@@ -4,6 +4,8 @@ date: 2015-05-30
 image: victory.gif
 template: article.jade
 tags: ["browser-based"]
+aliases: ["/articles/selfie-apocalypse"]
+
 ---
 
 <span class="more"></span>

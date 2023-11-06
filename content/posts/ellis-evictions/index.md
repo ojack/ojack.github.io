@@ -3,6 +3,7 @@ title: Anti-Eviction Mapping Project
 date: 2014-01-30
 image: anti-evictionedited.jpg
 tags: ["browser-based", "cartography"]
+aliases: ["/articles/ellis-evictions"]
 draft: true
 ---
 

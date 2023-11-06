@@ -11,14 +11,16 @@ Research into drawing as an interface for creating live-codeable functions in re
 
 First presented at  [Hybrid Live Coding Interfaces: performance & craft](https://hybrid-livecode.pubpub.org/pub/fubbles/release/1). in 2020. The talk is available online [here](https://www.youtube.com/live/sE4Eq7X9qF0?si=UbpgGVSxh_Tk30Pe&t=2097). Explored through the on-the-fly research residency at hangar.org in Barcelona, Spain (2022). 
 
-## Live performances using fubbles and the freesound API
-{{< youtube id="CtMBDtr5eFY" title="Algorave 10th Birthday March 2022 - olivia jack - 2022-03-20 15:10">}}
-{{< youtube id="FSL3-LjvXoY" title="Performance for Sameheads radio">}}
+
 
 ## Experiments with samples and melodies
 <!-- <div style="display:flex;width:100%"> -->
+
 <video style="display:inline-block" width="300px" height="300px" controls=true src='./assets/melody-1-scaled.mp4'></video>
 <video style="display:inline-block" width="300px" height="300px" controls=true src='./assets/melody-2-scaled.mp4'></video>
+
+
+
 <!-- </div> -->
 
 ## bespoke modular DAW
@@ -32,3 +34,7 @@ Presented at the workshop Hybrid Interfaces: drawing and code, Algopolis, ljudmi
 
 <!-- <iframe title="false" width="100%" src="https://videos.scanlines.xyz/videos/embed/2e1b2c74-4847-4b81-89d9-280b5ebbf3e9" frameborder="0"  allowfullscreen="true" sandbox="allow-same-origin allow-scripts allow-popups"></iframe> -->
 <!-- {{< video src="./fubbles-cut.mp4" type="video/mp4" preload="auto" >}} -->
+
+## Live performances using fubbles and the freesound API
+{{< youtube id="CtMBDtr5eFY" title="Algorave 10th Birthday March 2022 - olivia jack - 2022-03-20 15:10">}}
+{{< youtube id="FSL3-LjvXoY" title="Performance for Sameheads radio">}}

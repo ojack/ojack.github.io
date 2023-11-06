@@ -4,6 +4,10 @@ date: 2016-03-30
 image: thumb3.png
 template: article.jade
 tags: ["browser-based", "software", "sound"]
+categories: ["software"]
+weight: 2
+aliases: ["/articles/pixelsynth"]
+
 ---
 
 

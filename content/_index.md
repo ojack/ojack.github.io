@@ -5,10 +5,10 @@ bookMenu: false
 ---
 
 <span style="font-size:1.6rem">artist &&& programmer
- building [open-source art tools](/tags/software)</span>
+ building [open-source art tools](/posts)</span>
 </br>
  </br>
-[++performances](/categories/performances)
+[++live+visuals](/categories/performances)
   [+++media++design](/tags/media-design)
    [++++teaching](/tags/workshop)
     [++++experiments](/posts)
