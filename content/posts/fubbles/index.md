@@ -1,7 +1,7 @@
 ---
 title: fubbles // function scribbles
 categories: ['software']
-tags: ['drawing', 'sound']
+tags: ['drawing', 'live coding']
 image: assets/screenshot.png
 weight: 2
 ---
@@ -16,8 +16,13 @@ First presented at  [Hybrid Live Coding Interfaces: performance & craft](https:/
 ## Experiments with samples and melodies
 <!-- <div style="display:flex;width:100%"> -->
 
-<video style="display:inline-block" width="300px" height="300px" controls=true src='./assets/melody-1-scaled.mp4'></video>
-<video style="display:inline-block" width="300px" height="300px" controls=true src='./assets/melody-2-scaled.mp4'></video>
+<video style="display:inline-block" width="300px" height="300px" controls=true >
+ <source src='./assets/melody-1-scaled.mp4' type="video/mp4">
+</video>
+<video style="display:inline-block" width="300px" height="300px" controls=true>
+ <source src='./assets/melody-2-scaled.mp4' type="video/mp4">
+
+</video>
 
 
 
