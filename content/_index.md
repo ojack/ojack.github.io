@@ -2,6 +2,8 @@
 title: "olivia jack"
 bookToc: false
 bookMenu: false
+image: olivia3.png
+description: artist &&& programmer
 ---
 
 <span style="font-size:1.6rem">artist &&& programmer
