@@ -2,7 +2,7 @@
 title: "olivia jack"
 bookToc: false
 bookMenu: false
-image: olivia3.png
+images: [ olivia3.png ]
 description: artist &&& programmer
 ---
 
