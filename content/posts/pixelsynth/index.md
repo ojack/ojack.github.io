@@ -1,7 +1,7 @@
 ---
 title: PIXELSYNTH
 date: 2016-03-30
-image: thumb3.png
+image: texture.png
 template: article.jade
 tags: ["browser-based", "software", "sound"]
 categories: ["software"]
@@ -17,9 +17,11 @@ Browser-based synthesizer for creating sounds from images and drawings, programm
 [Live Version](https://ojack.github.io/PIXELSYNTH) | [Code](https://github.com/ojack/PIXELSYNTH)
 
 <span class="more"></span>
-![splash](preview2.png)
+![splash](title.png)
+![splash](close-up.png)
 ![splash](gif1.gif)
 ![splash](gif2.gif)
+
 
 ### Press: 
 * [Boing Boing](https://boingboing.net/2016/05/19/listen-to-your-images-with-pix.html)

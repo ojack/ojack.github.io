@@ -1,7 +1,7 @@
 ---
 title: Soundstation
 date: 2013-12-01
-image: thumb.jpg
+image: gallery.jpg
 tags: ["museum", "sound"]
 draft: true
 ---

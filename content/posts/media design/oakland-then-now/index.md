@@ -1,7 +1,7 @@
 ---
 title: Oakland Then and Now
 date: 2013-04-01
-image: thumb2.png
+image: thumb.png
 tags: ["cartography", "museum", "data-visualization"]
 draft: true
 ---

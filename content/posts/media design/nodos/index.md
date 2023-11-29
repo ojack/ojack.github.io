@@ -1,7 +1,7 @@
 ---
 title: "NODOS: cuerpos en expansión"
 date: 2015-11-30
-image: cubos2.png
+image: cubos3.png
 template: article.jade
 tags: ["c++", "media-design", "computer-vision", "dance"]
 categories: ["media-design"]

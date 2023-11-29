@@ -8,7 +8,7 @@ bookMenu: false
  building [open-source art tools](/posts)</span>
 </br>
  </br>
-[++live+visuals](/categories/performances)
+[++live+visuals](/tags/performance)
   [+++media++design](/tags/media-design)
    [++++teaching](/tags/workshop)
     [++++experiments](/posts)

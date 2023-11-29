@@ -1,10 +1,10 @@
 ---
 title:  Migration Patterns
 date: 2013-06-01
-image: thumb.png
+image: migration.png
 template: article.jade
 tags: ["data visualization", "cartography", "museum"]
-draft: true
+draft: false
 aliases: ["/articles/migration"]
 ---
 

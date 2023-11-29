@@ -1,10 +1,10 @@
 ---
 title: Anti-Eviction Mapping Project
 date: 2014-01-30
-image: anti-evictionedited.jpg
-tags: ["browser-based", "cartography"]
+image: ellis-sfmoma.jpg
+tags: ["browser-based", "cartography", "data-visualization", "museum"]
 aliases: ["/articles/ellis-evictions"]
-draft: true
+draft: false
 ---
 
 Created [a series of maps](http://www.antievictionmappingproject.net/ellis.html) as part of the Anti-Eviction Mapping Project, a data-visualization and digital storytelling collective working to document the housing crisis in San Francisco, California.
