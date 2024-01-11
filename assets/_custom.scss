@@ -63,11 +63,21 @@ body {
 
     font-weight: 400;
     // line-height: 1.33rem;
-     font-size: 0.8rem;
-    // line-height: 1rem;
+    //  font-size: 0.8rem;
+    line-height: 1rem;
+}
+
+.landing-text {
+    font-size: 4vh;
+}
+
+img {
+    filter: drop-shadow(0 0 2mm rgb(210, 0, 81));
 }
 
 .markdown h1, .markdown h2 {
+    // filter: drop-shadow(0 0 1mm rgb(210, 0, 81));
+
     // font-family: 'Helvetiva Neue', sans-serif;
     font-family: 'dec terminal modern';
     // text-transform: uppercase;
@@ -81,13 +91,46 @@ body {
 // h1 {font-size: 4rem; }
 
 .book-toc {
-    font-size: 0.8rem;
+    // font-size: 0.8rem;
+}
+
+#book-search-input {
+    // background-color: white;
+    background: none;
+    border: solid 2px var(--color-link);
+    color: var(--color-link);
+    border-radius: 25px;
+    margin-top: 1rem;
+    filter: drop-shadow(0 0 4mm rgb(160, 0, 210));
 }
 
 .menu-tags {
-    font-size: 0.8rem;
+    // font-size: 0.8rem;
+    font-size: 1.0rem;
     font-weight: 300;
     color: var(--color-link);
+}
+
+.menu-tags>a {
+     border: solid 2px var(--color-link);
+     margin: 0.1em;
+     padding: 0.4em;
+    border-radius: 25px;
+    // filter: drop-shadow(0 0 0.2rem rgb(160, 0, 210));
+    line-height: 0.8;
+    // text-decoration: underline;
+    transition: all 1s; 
+    position: relative;
+    display: inline-block;
+    // text-decoration:underline;
+}
+
+.menu-tags>a:hover {
+    background-color: var(--color-link);
+    color: white;
+    text-decoration: line-through;
+    filter: drop-shadow(0 0 4mm rgb(160, 0, 210));
+    // transform: scale(1.1);
 }
 
 .markdown {
@@ -104,7 +147,50 @@ aside nav ul li {
     margin: 0.3em 0em;
 }
 
+.container {
+    max-width: 100rem;
+}
+
+.list-holder {
+    display: grid;
+    // grid-template-rows: masonry;
+    grid-template-columns: repeat(auto-fill, minmax(550px, 1fr));
+    // grid-auto-rows: min-content;
+    grid-auto-rows: min-content(1em);
+    grid-gap: 20px;
+}
+
+.post-preview {
+    display: flex; 
+    flex-direction:row; 
+    justify-content: left; 
+    padding: 0.8rem; 
+    align-items: center;
+    // max-width: 50rem;
+}
+
+.post-preview-container {
+    // width: 100%;
+    display: flex;
+    border-radius: 25px;
+    // border: solid 2px var(--color-link);
+    height: fit-content;
+}
+
+.post-preview-container:hover {
+//    border: solid 2px var(--color-link);
+}
+
+
+@media (min-width: 80rem) {
+    .post-preview-container {
+    //   width: 50%;
+    }
+  }
+  
+
 .book-brand {
+    // filter: drop-shadow(0 0 0.2rem rgb(207, 210, 0));
     font-size: 3.6rem;
     line-height: 3rem;
     text-transform: lowercase;

@@ -5,15 +5,22 @@ bookMenu: false
 images: [ olivia4.png ]
 description: artist &&& programmer
 ---
+{{ define "html" }}
+{{ with .GetPage "/posts" }}{{.Render}}{{end}}
+{{ end }}
 
-<span style="font-size:1.6rem">artist &&& programmer
- building [open-source art tools](/posts)</span>
-</br>
- </br>
-[++live+visuals](/tags/performance)
+{{% landing-text %}} 
+....artist, programmer &&& educator working with [open-source art tools](/posts), [live visuals](/tags/performance) && [media design](/tags/media-design). 
+
+Creator of [hydra video synth](https://hydra.ojack.xyz), [PIXELSYNTH](https://ojack.xyz/PIXELSYNTH), && [LiveLab](https://www.culturehub.org/livelab). 
+
+See my [work](/posts) or [get in touch](mailto:rhizomaticode@gmail.com).
+{{% /landing-text %}}
+
+<!-- [++live+visuals](/tags/performance)
   [+++media++design](/tags/media-design)
    [++++teaching](/tags/workshop)
-    [++++experiments](/posts)
+    [++++experiments](/posts) -->
    <!-- , &&& educator -->
 <!-- 
 also [live performances](/categories/performances/), 
@@ -21,7 +28,7 @@ also [live performances](/categories/performances/),
 [teaching](/tags/workshops), 
 [ongoing experiments]  -->
 
-![](olivia3.png)
+<!-- ![](olivia3.png) -->
 
 
 

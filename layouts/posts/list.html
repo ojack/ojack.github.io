@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="list-holder" style="display:flex;flex-wrap:wrap;">
+<div class="list-holder">
   {{ range sort .Paginator.Pages }}
   
     <!-- <h4>
@@ -7,7 +7,7 @@
     </h4> -->
     <!-- <a href="https://ojack.xyz" style="display:block"> -->
 
-    <div style="padding:0.4rem">
+    <div class="post-preview-container" style="padding:0.4rem">
       {{ partial "docs/post-preview" . }}
 
       <!-- <h2><a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a></h2>
