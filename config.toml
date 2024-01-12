@@ -47,9 +47,13 @@ enableGitInfo = false
   #   name = "performances"
   #   pageRef = "/categories/performances"
    [[menu.after]]
+    name = "about"
+    # pageRef = "/posts"
+    url = "/about"
+   [[menu.after]]
     name = "rss"
     # pageRef = "/posts"
-    url = "/posts/index.xml"
+    url = "/index.xml"
   #   weight = 10
 # [[menu.after]]
 #   name = "Github"

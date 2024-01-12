@@ -1,13 +1,11 @@
 ---
 title: "olivia jack"
 bookToc: false
-bookMenu: false
+bookMenu: true
 images: [ olivia4.png ]
 description: artist &&& programmer
+layout: thumbnail-gallery
 ---
-{{ define "html" }}
-{{ with .GetPage "/posts" }}{{.Render}}{{end}}
-{{ end }}
 
 {{% landing-text %}} 
 ....artist, programmer &&& educator working with [open-source art tools](/posts), [live visuals](/tags/performance) && [media design](/tags/media-design). 

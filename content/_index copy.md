@@ -4,7 +4,7 @@ bookToc: false
 bookMenu: false
 images: [ olivia4.png ]
 description: artist &&& programmer
-display: false
+draft: true
 ---
 
 <span style="font-size:3.0rem">artist &&& programmer

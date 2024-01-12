@@ -1,0 +1,8 @@
+<div class="list-holder">
+    {{ range sort .Paginator.Pages }}
+    <div style="padding:0.0rem" class="post-preview-container" >
+        {{ partial "docs/post-preview" . }}
+    </div>
+    {{ end }}
+</div>
+{{ template "_internal/pagination.html" . }}
