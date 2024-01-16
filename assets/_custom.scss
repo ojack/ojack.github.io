@@ -75,6 +75,8 @@ img {
     filter: drop-shadow(0 0 2mm rgb(210, 0, 81));
 }
 
+
+
 .markdown h1, .markdown h2 {
     // filter: drop-shadow(0 0 1mm rgb(210, 0, 81));
 
@@ -86,6 +88,10 @@ img {
     font-weight: bold;
     // font-size: 2.4rem;
     margin-bottom: 0rem;
+}
+
+a:hover, .markdown a:hover {
+    text-decoration: line-through;
 }
 
 // h1 {font-size: 4rem; }
@@ -119,7 +125,7 @@ img {
     // filter: drop-shadow(0 0 0.2rem rgb(160, 0, 210));
     line-height: 0.8;
     // text-decoration: underline;
-    transition: all 1s; 
+    transition: all 0.5s; 
     position: relative;
     display: inline-block;
     // text-decoration:underline;
@@ -131,6 +137,17 @@ img {
     text-decoration: line-through;
     filter: drop-shadow(0 0 4mm rgb(160, 0, 210));
     // transform: scale(1.1);
+}
+
+.menu-tags>a.active {
+    background-color: var(--color-link);
+    color: white;
+    // text-decoration: line-through;
+    filter: drop-shadow(0 0 4mm rgb(160, 0, 210));
+}
+
+.book-menu a{
+    color: var(--color-link);
 }
 
 .markdown {

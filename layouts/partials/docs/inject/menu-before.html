@@ -12,10 +12,11 @@
     {{ end }}
   </ul> -->
 
-
+{{ $current := .Title }}
 <div class="book-section-flat book-toc-content menu-tags">
     {{ range $key, $taxonomy := .Site.Taxonomies.tags }}
-   <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+   <a href="{{ .Page.RelPermalink }}" class="{{ if eq .Page.Title $current }}active{{ end }}">
+      {{ .Page.Title }}</a>
   
     {{ end }}
 </div> 
