@@ -9,6 +9,15 @@
     <div class="homepage-content">
         {{ .Content }}
     </div> -->
-    {{ partial "thumbnail-list" . }}
+        <div class="list-holder">
+            {{ $work := (where .Site.RegularPages "Section" "work") }}
+            {{ $paginator := .Paginate $work }}
+            {{ range $paginator.Pages }}
+            <div style="padding:0.0rem" class="post-preview-container" >
+                {{ partial "docs/post-preview" . }}
+            </div>
+            {{ end }}
+        </div>
+        {{ template "_internal/pagination.html" . }}
 </main>
 {{ end }}

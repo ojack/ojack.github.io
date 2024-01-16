@@ -1,5 +1,11 @@
 {{ define "main" }}
-{{ partial "thumbnail-list" . }}
+{{ .Content }}
+{{ range .Pages }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Date.Format "2006-01-02" }} | {{ .LinkTitle }}</a>
+        </li>
+{{ end }}
+<!-- {{ partial "thumbnail-list" . }} -->
 {{ end }}
 
 {{ define "toc" }}

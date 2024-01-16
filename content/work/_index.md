@@ -1,6 +1,6 @@
 ---
 title: "work"
-type: "posts"
+# type: "posts"
 # bookToc: false
 bookCollapseSection: true
 bookHidden: true
