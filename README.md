@@ -1,4 +1,5 @@
 ### to do:
+- !! change sizing so looks as it does in 90% rendering
 - posts rendered in "default" view should only be from "work" folder
 - show selected tag in side menu bar
 - use post template for main template
