@@ -48,8 +48,7 @@ enableGitInfo = false
   #   pageRef = "/categories/performances"
    [[menu.after]]
     name = "about"
-    # pageRef = "/posts"
-    url = "/about"
+    pageRef = "/about"
    [[menu.after]]
     name = "rss"
     # pageRef = "/posts"
