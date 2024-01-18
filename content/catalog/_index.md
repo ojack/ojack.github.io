@@ -1,5 +1,5 @@
 Olivia Jackson
-</br>https://ojack.xyz 
+</br><i>Portfolio online at https://ojack.xyz </i>
 
 </br>
-Selected Works
+<i>Selected Works</i>
