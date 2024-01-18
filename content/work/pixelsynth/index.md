@@ -7,7 +7,10 @@ tags: ["browser-based", "software", "sound"]
 categories: ["software"]
 weight: 2
 aliases: ["/articles/pixelsynth"]
-
+summary: "Browser-based synthesizer for creating sound from images and drawings. Inspired by the ANS synthesizer created by Evgeny Murzin in 1937."
+catalog:
+    format: "software, website"
+    url: "https://ojack.xyz/PIXELSYNTH"
 ---
 
 

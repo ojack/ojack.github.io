@@ -3,6 +3,9 @@ title: "pixelcycles"
 date: "2019-09-12"
 tags: ["sound", "hydra"]
 image: "pixelcycles.png"
+catalog:
+    format: "*.mp4, javascript, haskell"
+    roles: "Collaboration with Alex McClean"
 ---
 
 Set of experiments using pixel colors to control musical patterns.

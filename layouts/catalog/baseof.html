@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<head>
+{{- $styles := resources.Get "pdf.scss" | resources.ExecuteAsTemplate "pdf.scss" . | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}" {{ template "integrity" $styles }}>
+</head>
+{{ template "main" . }}

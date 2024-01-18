@@ -3,7 +3,11 @@ title: fubbles // function scribbles
 categories: ['software']
 tags: ['drawing', 'live coding']
 image: assets/screenshot.png
+date: 2020-06-20
 weight: 2
+catalog:
+  format: "code library"
+  date: 2020
 ---
 
 Research into drawing as an interface for creating live-codeable functions in real time. 

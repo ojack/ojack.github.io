@@ -1,11 +1,13 @@
 ---
 title: maps for getting lost
-date: 2015-06-50
+date: "2015-06-10"
 image: thumb2.png
 template: article.jade
 tags: ["data-visualization", "browser-based", "cartography"]
 aliases: ["/articles/maps-for-getting-lost"]
-
+catalog:
+  format: "javascript, website"
+  date: 2015
 ---
 <span class="more"></span>
 Generative and self-destructive streetmaps drawn into the browser.

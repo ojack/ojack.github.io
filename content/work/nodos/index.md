@@ -1,11 +1,15 @@
 ---
 title: "NODOS: cuerpos en expansión"
 date: 2015-11-30
-image: cubos3.png
+image: cubos2.png
 template: article.jade
 tags: ["c++", "media-design", "computer-vision", "dance"]
 categories: ["media-design"]
 aliases: ["/articles/nodos"]
+summary: "Interactive projection mapping using custom software for the experimental dance performance, NODOS, cuerpos en expansión, directed by Edna Orozco"
+catalog:
+  format: "dance performance"
+  roles: "interactive scenography - Olivia Jack"
 ---
 
 <span class="more"></span>

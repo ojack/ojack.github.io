@@ -1,0 +1,40 @@
+.catalog-item {
+    display: flex;
+}
+
+a {
+    color: black;
+}
+
+html, div {
+    font-size: 13px;
+}
+
+.heading {
+    margin-left: 1.1em;
+    font-size: 14px;
+    margin-bottom: 1.4em;
+}
+.info {
+    font-style: italic;
+}
+
+image {
+    width: 200px;
+}
+
+.image-holder {
+    // width: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.text-holder {
+    padding-left: 1.2em;
+    padding-top: 0.6em;
+    max-width: 360px;
+}
+
+.catalog-item {
+    margin: 1.2em;
+}

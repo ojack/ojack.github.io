@@ -6,6 +6,8 @@ template: article.jade
 tags: ["data visualization", "cartography", "museum"]
 draft: false
 aliases: ["/articles/migration"]
+catalog:
+  format: "looping single-channel video"
 ---
 
 <span class="more"></span>

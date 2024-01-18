@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="heading">
+<!-- <h1>{{ partial "docs/title" . }}</h1> -->
+{{ .Content }}
+</div>
+{{ $work := (where .Site.RegularPages.ByDate.Reverse "Section" "work") }}
+{{ range $work }}
+<div class="container">
+    {{ partial "docs/catalog-summary" . }}
+</div>
+{{ end }}
+{{ end }}

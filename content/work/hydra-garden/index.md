@@ -2,6 +2,11 @@
 title: "hydra internet garden"
 image: "images/thumb.png"
 tags: ["browser-based", "hydra"]
+date: 2019-07-21
+catalog:
+    format: "website"
+    date: 2021
+    url: "https://hydra.ojack.xyz/garden"
 ---
 ever-growing community database of resources, projects, tutorials, and code related to hydra video synth
 

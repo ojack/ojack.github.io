@@ -1,10 +1,13 @@
 ---
 title: Live Lab
 date: 2016-05-30
-image: mix.png
+image: theater-livelab.png
 tags: ["software", "browser-based"]
 categories: ["software"]
-aliases: ["/articles/live-lab"]
+catalog: 
+    format: "software"
+    url: "https://livelab.app"
+    roles: "built for CultureHub Art & Technology Center, La MaMa Experimental Theater Club, and Seoul Institute of the Arts"
 ---
 
 <span class="more"></span>

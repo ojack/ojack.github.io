@@ -1,12 +1,16 @@
-+++
-title = "tu lengua y la mía"
-date = "2019-07-17"
-image = "tu-lengua.jpg"
-tags = ['live-coding', 'performance', 'visuals', 'hydra']
-categories = ['performances']
-draft = false
-layout = "posts"
-+++
+---
+title: "tu lengua y la mía"
+date: "2019-07-17"
+image: "tu-lengua.jpg"
+tags: ['live-coding', 'performance', 'visuals', 'hydra']
+categories: ['performances']
+draft: false
+layout: "posts"
+summary: " "
+catalog:
+  format: "performance with computer, projection, cello and synths"
+  roles: "Live-coded projection by Olivia Jack, sound by Mabe Fratti"
+---
 
 with Mabe Fratti. computer, cello + synths
 Teatro de las Artes CENART, Mexico City, Mexico (2019)

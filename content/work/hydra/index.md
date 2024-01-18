@@ -7,6 +7,12 @@ tags: ["browser-based", "software", "live coding", "hydra"]
 weight: 1
 categories: ['software']
 aliases: ["/articles/hydra"]
+summary: "Live-codeable video synth and networked coding environment that runs in the browser"
+date: "2023-12-12"
+catalog: 
+  format: "software, synthesizer, code library"
+  url: "https://hydra.ojack.xyz"
+  date: "2016 - present"
 ---
 
 [![hydra](hydra.png)](https://hydra.ojack.xyz)

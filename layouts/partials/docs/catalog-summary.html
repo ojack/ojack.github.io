@@ -1,0 +1,40 @@
+<div class="markdown catalog-item">
+    {{ if .Params.catalog }}
+        {{ if .Params.image }}
+        <div class = "image-holder">
+            {{ $image := .Resources.GetMatch .Params.image }}
+            {{ $image := $image.Resize "x120" }}
+            <a href="{{ .RelPermalink }}">
+                {{ with $image }}
+                <img src={{ .RelPermalink }} />
+                {{ else }}
+                <img src={{ .Params.image | relURL }} />
+                {{ end }}
+            </a>
+        </div>
+        {{ end }}
+        <div class="text-holder">
+            <div><a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a></div>
+          
+            <div class="info">{{ .Params.catalog.format }}</div>
+            {{ if .Date }}
+                {{ with .Date }}
+                    <div class="">{{ .Format "2006" }}</div>
+                <!-- <h5>{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</h5> -->
+                {{ end }}
+            {{ else }}
+                <div class="info">{{ .Params.catalog.date }}</div>
+            {{ end }}
+            <div class="info"><a href={{ .Params.catalog.url }}>{{ .Params.catalog.url }}</a></div>
+            <div>
+                {{- .Summary -}}
+            </div>
+                <div class="info">{{ .Params.catalog.roles }}</div>
+            <!-- {{ with $terms := $.GetTerms "Categories" }}
+        {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
+        <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>,
+        {{- end }}
+        {{ end }} -->
+        </div>
+    {{ end }}
+</div>

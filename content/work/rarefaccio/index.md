@@ -1,8 +1,14 @@
 ---
 title: "Rarefacció listening cycle"
 tags: ["sound", "visual scores", "drawing", "performance"]
-image: "images/flyer.png"
+# image: "images/flyer.png"
+image: "images/thumb.png"
 date: "2022-05-13"
+summary: "hangar.org, Barcelona, Spain.
+ Drawings create a live visual score for clarinet and control pitch and rhythm of looped audio."
+catalog: 
+  format: "live performance with clarinet, live looping, drawing pad"
+  roles: "sound and live drawing - Olivia Jack, clarinet - George Adje"
 ---
 
 hangar.org, Barcelona, Spain (2022)

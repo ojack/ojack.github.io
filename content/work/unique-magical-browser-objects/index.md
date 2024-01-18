@@ -4,6 +4,9 @@ date: 2021-03-30
 image: images/thumb2.png
 tags: ["browser-based", "hydra"]
 categories: ["software"]
+summary: "Web gallery of collectible code sketches, auto-generated for each donation to hydra video synth."
+catalog:
+  format: "website, gallery, infinitely looping animations"
 ---
 
 <!-- # uniquemagicalbrowserobjects.com -->
